@@ -1,727 +1,630 @@
+<channel id="100001"><display-name lang="zh">澳視澳門</display-name></channel>
+<channel id="100002"><display-name lang="zh">澳門資訊</display-name></channel>
+<channel id="100003"><display-name lang="zh">澳門體育</display-name></channel>
+<channel id="100004"><display-name lang="zh">澳門綜藝</display-name></channel>
+<channel id="100005"><display-name lang="zh">澳門衛星</display-name></channel>
 
-#EXTM3U
+<channel id="100006"><display-name lang="zh">蓮花衛視</display-name></channel>
 
-#EXTINF:-1 tvg-id="100001" tvg-name="澳視澳門"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100002" tvg-name="澳門資訊"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100003" tvg-name="澳門體育"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100004" tvg-name="澳門綜藝"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100005" tvg-name="澳門衛星"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100006" tvg-name="蓮花衛視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100007" tvg-name="民視MOD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100008" tvg-name="人間衛視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100009" tvg-name="台視MOD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100010" tvg-name="大愛電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100011" tvg-name="中視MOD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100012" tvg-name="華視MOD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100013" tvg-name="公視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100014" tvg-name="公視台語"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100015" tvg-name="好消息電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100016" tvg-name="原住民電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100017" tvg-name="華視教育體育文化台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100018" tvg-name="公視3"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100019" tvg-name="大愛2"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100020" tvg-name="baby"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100021" tvg-name="my kinds"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100022" tvg-name="boomerang"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100023" tvg-name="ELTV生活英語台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100024" tvg-name="龍華動畫"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100025" tvg-name="Nickelodeon Asia(尼克兒童頻道)"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100026" tvg-name="靖洋卡通台Nice Bingo"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100027" tvg-name="靖天卡通台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100028" tvg-name="CBeebies"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100029" tvg-name="DaVinCi Learning達文西頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100030" tvg-name="Nick Jr."tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100031" tvg-name="DREAMWORKS"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100032" tvg-name="寶寶世界頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100033" tvg-name="國會頻道1"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100034" tvg-name="國會頻道2"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100035" tvg-name="Channel V國際娛樂台HD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100036" tvg-name="Medici-arts"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100037" tvg-name="MTV Live"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100038" tvg-name="MTV綜合電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100039" tvg-name="Mezzo Live HD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100040" tvg-name="TRACE Urban"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100041" tvg-name="古典音樂台CLASSICA HD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100042" tvg-name="CMusic"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100043" tvg-name="愛爾達體育1台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100044" tvg-name="愛爾達體育2台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100045" tvg-name="愛爾達體育3台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100046" tvg-name="TRACE Sport Stars"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100047" tvg-name="博斯高球一台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100048" tvg-name="博斯高球二台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100049" tvg-name="博斯網球台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100050" tvg-name="博斯魅力網"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100051" tvg-name="博斯無限台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100052" tvg-name="博斯無限二台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100053" tvg-name="狼谷育樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100054" tvg-name="ELEVEN SPORTS PLUS"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100055" tvg-name="博斯運動一台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100056" tvg-name="ELEVEN SPORTS 2"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100057" tvg-name="智林體育台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100058" tvg-name="EUROSPORT"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100059" tvg-name="博斯運動二台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100060" tvg-name="國家地理國際頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100061" tvg-name="國家地理高畫質野生頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100062" tvg-name="BBC Earth"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100063" tvg-name="Discovery Asia"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100064" tvg-name="Discovery科學頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100065" tvg-name="DMAX"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100066" tvg-name="EVE"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100067" tvg-name="HISTORY 2"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100068" tvg-name="歷史頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100069" tvg-name="罪案偵緝頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100070" tvg-name="BBC Lifestyle Channel"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100071" tvg-name="國家地理高畫質悠人頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100072" tvg-name="PET CLUB TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100073" tvg-name="LUXE TV Channel"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100074" tvg-name="Lifetime"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100075" tvg-name="KLT-靖天國際台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100076" tvg-name="幸福空間居家台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100077" tvg-name="滾動力 rollor"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100078" tvg-name="HGTV 居家樂活頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100079" tvg-name="LOVE NATURE"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100080" tvg-name="美食星球頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100081" tvg-name="Asian Food Network 亞洲美食頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100082" tvg-name="Food Network 美食台頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100083" tvg-name="亞洲旅遊台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100084" tvg-name="EYE TV旅遊台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100085" tvg-name="Travel Channel"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100086" tvg-name="時尚頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100087" tvg-name="Fashion One"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100088" tvg-name="TV5MONDE STYLE HD 生活時尚"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100089" tvg-name="東森購物1台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100090" tvg-name="愛爾達綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100091" tvg-name="三立綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100092" tvg-name="靖天綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100093" tvg-name="靖天資訊台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100094" tvg-name="靖天育樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100095" tvg-name="Smart知識台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100096" tvg-name="台視綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100097" tvg-name="亞洲綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100098" tvg-name="中視經典台台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100099" tvg-name="寰宇HD綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100100" tvg-name="中視菁采台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100101" tvg-name="TVBS精采台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100102" tvg-name="壹電視資訊綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100103" tvg-name="緯來精采台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100104" tvg-name="天天電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100105" tvg-name="ETtoday綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100106" tvg-name="民視第一台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100107" tvg-name="民視台灣台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100108" tvg-name="Nice TV 靖天歡樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100109" tvg-name="冠軍電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100110" tvg-name="新唐人亞太台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100111" tvg-name="八大優頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100112" tvg-name="momo2台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100113" tvg-name="東森購物3台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100114" tvg-name="三立戲劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100115" tvg-name="台灣戲劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100116" tvg-name="龍華戲劇"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100117" tvg-name="龍華偶像"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100118" tvg-name="龍華影劇"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100119" tvg-name="愛爾達影劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100120" tvg-name="靖天戲劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100121" tvg-name="靖洋戲劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100122" tvg-name="EYE TV戲劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100123" tvg-name="東森購物2台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100124" tvg-name="WAKUWAKU JAPAN"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100125" tvg-name="靖天日本台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100126" tvg-name="曼迪日本台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100127" tvg-name="MY101綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100128" tvg-name="Animax"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100129" tvg-name="i-Fun動漫台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100130" tvg-name="tvN"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100131" tvg-name="韓國娛樂台KMTV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100132" tvg-name="華藝MBC綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100133" tvg-name="星衛娛樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100134" tvg-name="BLUE ANT EXTREME"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100135" tvg-name="BLUE ANT ENTERTAINMET"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100136" tvg-name="美好2台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100137" tvg-name="momo1台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100138" tvg-name="東森購物4台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100139" tvg-name="中視新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100140" tvg-name="寰宇新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100141" tvg-name="寰宇新聞台灣台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100142" tvg-name="台視新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100143" tvg-name="三立財經新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100144" tvg-name="華視新聞資訊台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100145" tvg-name="壹電視新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100146" tvg-name="民視新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100147" tvg-name="寰宇財經台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100148" tvg-name="台視財經台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100149" tvg-name="美好1台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100150" tvg-name="東森購物5台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100151" tvg-name="CNN International"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100152" tvg-name="BC World News"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100153" tvg-name="Bloomberg TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100154" tvg-name="Channel NewsAsia頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100155" tvg-name="CNBC Asia Channel"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100156" tvg-name="Euronews"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100157" tvg-name="德國之聲電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100158" tvg-name="FRANCE24(English)"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100159" tvg-name="NHK新聞資訊台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100160" tvg-name="半島英語新聞台Al Jazeera English"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100161" tvg-name="視納華仁紀實台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100162" tvg-name="影迷數位紀實台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100163" tvg-name="美亞電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100164" tvg-name="龍華電影"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100165" tvg-name="星衛HD電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100166" tvg-name="靖天映畫"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100167" tvg-name="靖天電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100168" tvg-name="龍華洋片"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100169" tvg-name="Warner TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100170" tvg-name="Star Movies HD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100171" tvg-name="福斯家庭電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100172" tvg-name="amc最愛電影"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100173" tvg-name="HITS"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100174" tvg-name="FX"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100175" tvg-name="FOXCRIME"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100176" tvg-name="FOX頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100177" tvg-name="龍華經典"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100178" tvg-name="華藝影劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100179" tvg-name="CatchPlay電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100180" tvg-name="CinemaWorld"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100181" tvg-name="壹電視電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100182" tvg-name="采昌影劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100183" tvg-name="影迷數位電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100184" tvg-name="My Cinema Europe HD 我的歐洲電影"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100185" tvg-name="唯心電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100186" tvg-name="佛衛電視慈悲台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100187" tvg-name="華藏衛視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100188" tvg-name="生命電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100189" tvg-name="正德電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100190" tvg-name="TV5MONDE"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100191" tvg-name="Arirang TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100192" tvg-name="DW(Deutsch)"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100193" tvg-name="TFC(ABS-CBN)"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100194" tvg-name="FRANCE24(Fren)"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100195" tvg-name="bb快報"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100196" tvg-name="公用頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100197" tvg-name="高雄都會台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100198" tvg-name="CNN International"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100199" tvg-name="民視無線台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100200" tvg-name="人間衛視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100201" tvg-name="台灣電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100202" tvg-name="大愛電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100203" tvg-name="中視數位台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100204" tvg-name="霹靂電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100205" tvg-name="中華電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100206" tvg-name="公共電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100207" tvg-name="公視台語台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100208" tvg-name="好消息衛星電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100209" tvg-name="原住民族電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100210" tvg-name="客家電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100211" tvg-name="國家地理頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100212" tvg-name="Discovery"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100213" tvg-name="Discovery 旅遊生活頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100214" tvg-name="動物星球頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100215" tvg-name="迪士尼頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100216" tvg-name="Cartoon Network"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100217" tvg-name="MOMO親子台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100218" tvg-name="東森幼幼台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100219" tvg-name="緯來綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100220" tvg-name="八大第一台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100221" tvg-name="八大綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100222" tvg-name="三立台灣台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100223" tvg-name="三立都會台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100224" tvg-name="衛視中文台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100225" tvg-name="東森綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100226" tvg-name="超視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100227" tvg-name="東森購物2台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100228" tvg-name="momo2台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100229" tvg-name="中天綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100230" tvg-name="東風衛視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100231" tvg-name="MUCH TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100232" tvg-name="中天娛樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100233" tvg-name="東森戲劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100234" tvg-name="八大戲劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100235" tvg-name="TVBS歡樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100236" tvg-name="緯來戲劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100237" tvg-name="高點電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100238" tvg-name="東森購物3台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100239" tvg-name="東森購物1台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100240" tvg-name="momo 1台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100241" tvg-name="三立財經新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100242" tvg-name="壹電視新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100243" tvg-name="era news 年代新聞"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100244" tvg-name="東森新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100245" tvg-name="華視新聞資訊台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100246" tvg-name="民視新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100247" tvg-name="三立新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100248" tvg-name="TVBS 新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100249" tvg-name="TVBS"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100250" tvg-name="東森財經新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100251" tvg-name="非凡新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100252" tvg-name="ViVa 1台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100253" tvg-name="東森購物5台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100254" tvg-name="衛視電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100255" tvg-name="東森電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100256" tvg-name="緯來電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100257" tvg-name="LS TIME電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100258" tvg-name="HBO"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100259" tvg-name="東森洋片台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100260" tvg-name="AXN"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100261" tvg-name="好萊塢電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100262" tvg-name="FOX MOVIES"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100263" tvg-name="CINEMAX"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100264" tvg-name="緯來育樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100265" tvg-name="緯來體育台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100266" tvg-name="ELEVEN SPORTS 1"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100267" tvg-name="ELEVEN SPORTS 2"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100268" tvg-name="MOMO綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100269" tvg-name="緯來日本台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100270" tvg-name="國興衛視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100271" tvg-name="FOX頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100272" tvg-name="MTV綜合電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100273" tvg-name="靖天購物一台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100274" tvg-name="靖天資訊台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100275" tvg-name="信吉電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100276" tvg-name="WAKUWAKU JAPAN"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100277" tvg-name="ANIMAX"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100278" tvg-name="寰宇新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100279" tvg-name="八大娛樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100280" tvg-name="冠軍電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100281" tvg-name="JET TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100282" tvg-name="非凡商業台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100283" tvg-name="運通財經綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100284" tvg-name="全球財經網頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100285" tvg-name="誠心電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100286" tvg-name="亞洲旅遊台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100287" tvg-name="Z頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100288" tvg-name="海豚綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100289" tvg-name="威達超舜生活台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100290" tvg-name="台灣藝術台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100291" tvg-name="華藏衛星電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100292" tvg-name="十方法界電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100293" tvg-name="世界衛星電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100294" tvg-name="佛衛電視慈悲台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100295" tvg-name="信大電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100296" tvg-name="NHK WORLD PREMIUM"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100297" tvg-name="全大電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100298" tvg-name="正德電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100299" tvg-name="天良綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100300" tvg-name="番薯衛星電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100301" tvg-name="富立電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100302" tvg-name="台灣綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100303" tvg-name="冠軍夢想台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100304" tvg-name="新天地民俗台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100305" tvg-name="三聖電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100306" tvg-name="天美麗電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100307" tvg-name="大立電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100308" tvg-name="雙子衛視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100309" tvg-name="公視3台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100310" tvg-name="華視教育體育文化台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100311" tvg-name="國會頻道1台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100312" tvg-name="國會頻道2台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100313" tvg-name="幸福空間居家台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100314" tvg-name="智林體育台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100315" tvg-name="大愛二台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100316" tvg-name="好消息二台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100317" tvg-name="高點育樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100318" tvg-name="靖天綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100319" tvg-name="唯心電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100320" tvg-name="民視第一台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100321" tvg-name="民視台灣台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100322" tvg-name="中視菁采台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100323" tvg-name="中視新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100324" tvg-name="台視新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100325" tvg-name="台視財經台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100326" tvg-name="台視綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100327" tvg-name="美麗人生購物台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100328" tvg-name="Bloomberg Television"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100329" tvg-name="BBC World News"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100330" tvg-name="TV5MONDE"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100331" tvg-name="Channel News Asia"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100332" tvg-name="狼谷育樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100333" tvg-name="BBC Earth"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100334" tvg-name="BBC Lifestyle"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100335" tvg-name="Asian Food Network 亞洲美食頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100336" tvg-name="梅迪奇藝術頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100337" tvg-name="Discovery Asia"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100338" tvg-name="Discovery科學頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100339" tvg-name="DMAX"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100340" tvg-name="EVE"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100341" tvg-name="博斯運動一台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100342" tvg-name="HITS"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100343" tvg-name="國家地理國際頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100344" tvg-name="國家地理高畫質野生頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100345" tvg-name="國家地理高畫質悠人頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100346" tvg-name="amc最愛頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100347" tvg-name="My Cinema Europe HD 我的歐洲電影"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100348" tvg-name="HBO HD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100349" tvg-name="HBO Signature 原創鉅獻"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100350" tvg-name="HBO Hits 強檔鉅獻"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100351" tvg-name="HBO Family"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100352" tvg-name="tvN"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100353" tvg-name="星衛娛樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100354" tvg-name="星衛HD電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100355" tvg-name="Star Movie HD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100356" tvg-name="福斯家庭電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100357" tvg-name="福斯警匪頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100358" tvg-name="FX"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100359" tvg-name="Warner TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100360" tvg-name="MTV Live音樂頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100361" tvg-name="BaBy TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100362" tvg-name="Nickelodeon Asia尼克兒童頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100363" tvg-name="Nick Jr.(小尼克)"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100364" tvg-name="Cbeebies"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100365" tvg-name="Eurosport"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100366" tvg-name="博斯運動二台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100367" tvg-name="博斯高球一台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100368" tvg-name="博斯高球二台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100369" tvg-name="博斯魅力網"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100370" tvg-name="博斯網球台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100371" tvg-name="博斯無限台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100372" tvg-name="博斯無限二台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100373" tvg-name="彩虹頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100374" tvg-name="松視4台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100375" tvg-name="Pandora潘朵啦高畫質玩美台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100376" tvg-name="Pandora潘朵啦高畫質粉紅台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100377" tvg-name="松視1台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100378" tvg-name="松視2台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100379" tvg-name="松視3台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100380" tvg-name="彩虹E台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100381" tvg-name="彩虹Movie台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100382" tvg-name="K頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100383" tvg-name="HOT頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100384" tvg-name="HAPPY頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100385" tvg-name="玩家頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100386" tvg-name="驚豔成人電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100387" tvg-name="香蕉台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100388" tvg-name="樂活頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100389" tvg-name="myTV SUPER 18台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100390" tvg-name="翡翠台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100391" tvg-name="無綫新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100392" tvg-name="明珠台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100393" tvg-name="無綫財經"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100394" tvg-name="TVB經典台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100395" tvg-name="韓劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100396" tvg-name="華語劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100397" tvg-name="娛樂新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100398" tvg-name="綜藝旅遊台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100399" tvg-name="為食台 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100400" tvg-name="TVB Radio"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100401" tvg-name="戲曲台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100402" tvg-name="兒童台 (100)"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100403" tvg-name="粵語片台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100404" tvg-name="美亞電影台 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100405" tvg-name="天映經典頻道 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100406" tvg-name="中國電影頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100407" tvg-name="無綫新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100408" tvg-name="神州新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100409" tvg-name="TVBS新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100410" tvg-name="myTV SUPER直播足球1台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100411" tvg-name="myTV SUPER直播足球2台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100412" tvg-name="myTV SUPER直播足球3台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100413" tvg-name="香港開電視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100414" tvg-name="香港國際財經"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100415" tvg-name="香港開"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100416" tvg-name="香港國際財經"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100417" tvg-name="有線財經資訊台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100418" tvg-name="有線新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100419" tvg-name="有線直播"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100420" tvg-name="中央電視台新聞頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100421" tvg-name="中央電視台國際頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100422" tvg-name="鳳凰資訊頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100423" tvg-name="東森亞洲新聞"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100424" tvg-name="skynews"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100425" tvg-name="BBC WORLD NEWS"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100426" tvg-name="FOXNEWS"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100427" tvg-name="CNNI"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100428" tvg-name="CNN HLN NEWS"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100429" tvg-name="NHK WORLD NEWS"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100430" tvg-name="CNBCHK"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100431" tvg-name="Bloomberg TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100432" tvg-name="中國環球電視網"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100433" tvg-name="亞洲新聞"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100434" tvg-name="今日俄羅斯"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100435" tvg-name="半島新聞"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100436" tvg-name="法國24小時法語"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100437" tvg-name="法國24小時英語"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100438" tvg-name="dw英語"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100439" tvg-name="dw德語"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100440" tvg-name="香港有線財經資訊台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100441" tvg-name="香港有線新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100442" tvg-name="香港有線直播新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100443" tvg-name="鳳凰資訊台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100444" tvg-name="彭博社財經"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100445" tvg-name="香港有線電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100446" tvg-name="光影歐洲台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100447" tvg-name="衛視電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100448" tvg-name="衛視卡式台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100449" tvg-name="福克斯電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100450" tvg-name="福克斯家庭台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100451" tvg-name="福克斯動作台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100452" tvg-name="高清私人影院"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100453" tvg-name="驚慄電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100454" tvg-name="香港有線電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100455" tvg-name="光影歐洲"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100456" tvg-name="cine p"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100457" tvg-name="綜合娛樂台 *"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100458" tvg-name="鳳凰衛視香港台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100459" tvg-name="珠江頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100460" tvg-name=" FOX"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100461" tvg-name="FOXlife"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100462" tvg-name="FX"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100463" tvg-name="Blue Ant 綜藝娛樂 HD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100464" tvg-name="Blue Ant 超極娛樂 HD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100465" tvg-name="Fashion TV HD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100466" tvg-name="tvN HD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100467" tvg-name="NHK World Pr"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100468" tvg-name="Arirang TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100469" tvg-name="ABC Australia"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100470" tvg-name="東森亞洲衛視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100471" tvg-name="衛視中文台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100472" tvg-name="MTV Asia"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100473" tvg-name="東方衛視國際頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100474" tvg-name="深圳電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100475" tvg-name="湖南廣播電視台國際頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100476" tvg-name="湖北衛視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100477" tvg-name="中央電視台戲曲頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100478" tvg-name="中央電視台綜合頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100479" tvg-name="香港有線綜合娛樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100480" tvg-name="Fashion TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100481" tvg-name="鳯凰衛視中文台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100482" tvg-name="tvN"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100483" tvg-name="Blue Ant 綜藝娛樂"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100484" tvg-name="東森亞洲幼幼台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100485" tvg-name="夢工廠"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100486" tvg-name="卡通頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100487" tvg-name="Boomerang 頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100488" tvg-name="達文西頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100489" tvg-name="Nickelodeon"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100490" tvg-name="Nick Jr."tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100491" tvg-name="Baby TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100492" tvg-name="CBeebies"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100493" tvg-name="ZooMoo"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100494" tvg-name="Disney Channel"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100495" tvg-name="Disney Junior"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100496" tvg-name="香港有線高清體育台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100497" tvg-name="Sports Plus 1 HD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100498" tvg-name="高清603台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100499" tvg-name="Sports Plus 2 HD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100500" tvg-name="Sports Plus 3 HD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100501" tvg-name="Fox Sports"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100502" tvg-name="Fox Sports 2 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100503" tvg-name="Fox Sports 3"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100504" tvg-name="beIN Sports 1"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100505" tvg-name="beIN Sports 2"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100506" tvg-name="beIN SPORTS MAX"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100507" tvg-name="香港有線18台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100508" tvg-name="Fox Sports"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100509" tvg-name="Fox Sports 2"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100510" tvg-name="Fox Sports 3"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100511" tvg-name="beIN Sports 1"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100512" tvg-name="beIN Sports 2"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100513" tvg-name="beIN SPORTS MAX"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100514" tvg-name="香港有線體育台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100515" tvg-name="Sports Plus 1"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100516" tvg-name="Sports Plus 2"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100517" tvg-name="Sports Plus 3"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100518" tvg-name="賽馬1台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100519" tvg-name="賽馬2台 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100520" tvg-name="國家地理野生高清頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100521" tvg-name="國家地理高清頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100522" tvg-name="國家地理悠人高清頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100523" tvg-name="戶外頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100524" tvg-name="Discovery Asia"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100525" tvg-name="Discovery高清頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100526" tvg-name="旅遊生活高清頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100527" tvg-name="EVE 高清頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100528" tvg-name="動物星球高清頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100529" tvg-name="Discovery 科學高清頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100530" tvg-name="DMAX 高清頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100531" tvg-name="BBC Lifestyle 高清頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100532" tvg-name="BBC Eart"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100533" tvg-name="中國環球電視網紀錄頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100534" tvg-name="Pet Club TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100535" tvg-name="國家地理野生頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100536" tvg-name="國家地理頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100537" tvg-name="國家地理悠人頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100538" tvg-name="Discovery"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100539" tvg-name="旅遊生活頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100540" tvg-name="EVE"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100541" tvg-name="動物星球頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100542" tvg-name="Discovery科學頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100543" tvg-name="DMAX"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100544" tvg-name="BBC Lifestyle"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100545" tvg-name="戶外頻道 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100546" tvg-name="Zee TV "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100547" tvg-name="WION "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100548" tvg-name="Zee Cinema "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100549" tvg-name="Zing "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100550" tvg-name="歡樂台 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100551" tvg-name="惹火台 "tvg-logo="" group-title="",
-
-#EXTINF:-1 tvg-id="100552" tvg-name="viu6"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100553" tvg-name="viu"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100554" tvg-name="now 劇集"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100555" tvg-name="video express rentnow"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100556" tvg-name="nowjeli"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100557" tvg-name="hbo hits"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100558" tvg-name="hbo family"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100559" tvg-name="cinemax"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100560" tvg-name="爆谷台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100561" tvg-name="東森亞洲"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100562" tvg-name="tvbs"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100563" tvg-name="moov "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100564" tvg-name="now直播 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100565" tvg-name="now新聞 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100566" tvg-name="now財經 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100567" tvg-name="now報價 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100568" tvg-name="第一財經 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100569" tvg-name="鳳凰資訊 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100570" tvg-name="鳳凰中文 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100571" tvg-name="香港衛視 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100572" tvg-name="東森亞洲新聞 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100573" tvg-name="中天亞洲台 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100574" tvg-name="now體育 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100575" tvg-name="now體育4k "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100576" tvg-name="now體育4k "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100577" tvg-name="now體育4k "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100578" tvg-name="now體育 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100579" tvg-name="now體育 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100580" tvg-name="Now Sports Premier League TV "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100581" tvg-name="Now Sports Premier League TV1 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100582" tvg-name="Now Sports Premier League TV2 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100583" tvg-name="Now Sports Premier League TV3 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100584" tvg-name="Now Sports Premier League TV4 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100585" tvg-name="Now Sports Premier League TV5 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100586" tvg-name="Now Sports Premier League TV6 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100587" tvg-name="Now Sports Premier  "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100588" tvg-name="Now Sports 1 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100589" tvg-name="Now Sports 2 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100590" tvg-name="Now Sports 3 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100591" tvg-name="Now Sports 4 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100592" tvg-name="Now Sports 5 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100593" tvg-name="Now Sports 6 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100594" tvg-name="Now Sports 7 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100595" tvg-name="Now Sports 650 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100596" tvg-name="Now Sports 651 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100597" tvg-name="Now Sports 668 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100598" tvg-name="Now Sports plus "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100599" tvg-name="Now Sports 681 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100600" tvg-name="Now 高爾夫2 "tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="100601" tvg-name="Now 高爾夫3 "tvg-logo="" group-title="",
-
-
-
-#EXTINF:-1 tvg-id="4gtv-4gtv003" tvg-name="民視第一台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv001" tvg-name="民視台灣台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv002" tvg-name="民視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv007" tvg-name="大愛電視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv040" tvg-name="中視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv080" tvg-name="中視經典台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv041" tvg-name="華視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live207" tvg-name="三立綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv043" tvg-name="客家電視台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv039" tvg-name="八大綜藝台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv064" tvg-name="中視菁采台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv086" tvg-name="TVBS精采台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv070" tvg-name="愛爾達娛樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv046" tvg-name="靖天綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv047" tvg-name="靖天日本台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv050" tvg-name="新唐人亞太台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv033" tvg-name="中天綜合台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv079" tvg-name="ARIRANG阿里郎頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live030" tvg-name="LiveABC互動英語頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv018" tvg-name="達文西頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-longturn20" tvg-name="ELTV生活英語台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv032" tvg-name="Nick Jr. 兒童頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live105" tvg-name="尼克兒童頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv044" tvg-name="靖天卡通台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv057" tvg-name="靖洋卡通Nice Bingo"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-ftv15" tvg-name="i-Fun動漫台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-ftv11" tvg-name="i-Fun動漫台2"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-ftv12" tvg-name="i-Fun動漫台3"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv107" tvg-name="MOMO親子台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live205" tvg-name="CN卡通"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live047" tvg-name="東森購物一台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-ftv14" tvg-name="東森新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv052" tvg-name="華視新聞"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-ftv13" tvg-name="民視新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv089" tvg-name="三立財經新聞iNEWS"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live072" tvg-name="TVBS新聞"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv019" tvg-name="東森財經新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv074" tvg-name="中視新聞"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-longturn14" tvg-name="寰宇新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv060" tvg-name="SBN全球財經台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv073" tvg-name="TVBS"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live046" tvg-name="東森購物二台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv004" tvg-name="民視綜藝台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv006" tvg-name="豬哥亮歌廳秀"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv062" tvg-name="靖天育樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv063" tvg-name="KLT-靖天國際台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv054" tvg-name="Nice TV 靖天歡樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv065" tvg-name="靖天資訊台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv068" tvg-name="TVBS歡樂台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv016" tvg-name="韓國娛樂台 KMTV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv029" tvg-name="Lifetime 娛樂頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv031" tvg-name="電影原聲台CMusic"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv082" tvg-name="TRACE Urban"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv025" tvg-name="MTV Live HD 音樂頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv083" tvg-name="Mezzo Live HD"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv059" tvg-name="CLASSICA 古典樂"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-longturn05" tvg-name="博斯高球台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-longturn07" tvg-name="博斯運動一台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-longturn10" tvg-name="博斯無限台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-longturn09" tvg-name="博斯網球台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv077" tvg-name="TRACE Sport Stars"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv101" tvg-name="智林體育台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv014" tvg-name="時尚運動X"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live201" tvg-name="車迷TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv053" tvg-name="GINX Esports TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live109" tvg-name="TechStorm"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live110" tvg-name="Pet Club TV"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-ftv07" tvg-name="民視旅遊台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-longturn19" tvg-name="Fashion One"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live206" tvg-name="幸福空間居家台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live208" tvg-name="Love Nature"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv026" tvg-name="History 歷史頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv028" tvg-name="HISTORY 2 頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv088" tvg-name="Smithsonian Channel"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live121" tvg-name="LUXE TV Channel"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live122" tvg-name="TV5MONDE STYLE HD 生活時尚"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv042" tvg-name="公視戲劇"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-ftv09" tvg-name="民視影劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-longturn18" tvg-name="龍華戲劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live620" tvg-name="HITS頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-longturn11" tvg-name="龍華日韓台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv034" tvg-name="八大精彩台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv058" tvg-name="靖天戲劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv045" tvg-name="靖洋戲劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv027" tvg-name="CI 罪案偵查頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv013" tvg-name="視納華仁紀實頻道"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv105" tvg-name="影迷數位紀實台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv144" tvg-name="金光布袋戲"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live138" tvg-name="BLUE ANT EXTREME"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv049" tvg-name="采昌影劇台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv055" tvg-name="靖天映畫"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv061" tvg-name="靖天電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-longturn03" tvg-name="龍華電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv011" tvg-name="影迷數位電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv017" tvg-name="amc最愛電影"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv069" tvg-name="CinemaWorld"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live155" tvg-name="CATCHPLAY Beyond"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv076" tvg-name="CATCHPLAY電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live157" tvg-name="My Cinema Europe HD 我的歐洲電影"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-ftv17" tvg-name="好消息2台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-ftv16" tvg-name="好消息"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv106" tvg-name="大愛二台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv008" tvg-name="人間衛視"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-ftv10" tvg-name="半島國際新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="litv-ftv03" tvg-name="VOA美國之音"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv030" tvg-name="CNBC Asia 財經台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv071" tvg-name="DW德國之聲"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live203" tvg-name="CNN頭條新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live204" tvg-name="CNN國際新聞台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv084" tvg-name="國會頻道1"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-4gtv085" tvg-name="國會頻道2"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live021" tvg-name="經典電影台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live022" tvg-name="經典卡通台"tvg-logo="" group-title="",
-#EXTINF:-1 tvg-id="4gtv-live023" tvg-name="公視三台"tvg-logo="" group-title="",
+<channel id="100010"><display-name lang="zh">民視MOD</display-name></channel>
+<channel id="100011"><display-name lang="zh">人間衛視</display-name></channel>
+<channel id="100012"><display-name lang="zh">台視MOD</display-name></channel>
+<channel id="100013"><display-name lang="zh">大愛電視台</display-name></channel>
+<channel id="100014"><display-name lang="zh">中視MOD</display-name></channel>
+<channel id="100015"><display-name lang="zh">華視MOD</display-name></channel>
+<channel id="100016"><display-name lang="zh">公視</display-name></channel>
+<channel id="100017"><display-name lang="zh">公視台語</display-name></channel>
+<channel id="100018"><display-name lang="zh">好消息電視台</display-name></channel>
+<channel id="100019"><display-name lang="zh">原住民電視台</display-name></channel>
+<channel id="100020"><display-name lang="zh">華視教育體育文化台</display-name></channel>
+<channel id="100021"><display-name lang="zh">公視3</display-name></channel>
+<channel id="100022"><display-name lang="zh">大愛2</display-name></channel>
+<channel id="100023"><display-name lang="zh">baby</display-name></channel>
+<channel id="100024"><display-name lang="zh">my kinds</display-name></channel>
+<channel id="100025"><display-name lang="zh">boomerang</display-name></channel>
+<channel id="100026"><display-name lang="zh">ELTV生活英語台</display-name></channel>
+<channel id="100027"><display-name lang="zh">龍華動畫</display-name></channel>
+<channel id="100028"><display-name lang="zh">Nickelodeon Asia(尼克兒童頻道)</display-name></channel>
+<channel id="100029"><display-name lang="zh">靖洋卡通台Nice Bingo</display-name></channel>
+<channel id="100030"><display-name lang="zh">靖天卡通台</display-name></channel>
+<channel id="100031"><display-name lang="zh">CBeebies</display-name></channel>
+<channel id="100032"><display-name lang="zh">DaVinCi Learning達文西頻道</display-name></channel>
+<channel id="100033"><display-name lang="zh">Nick Jr.</display-name></channel>
+<channel id="100034"><display-name lang="zh">DREAMWORKS</display-name></channel>
+<channel id="100035"><display-name lang="zh">寶寶世界頻道</display-name></channel>
+<channel id="100036"><display-name lang="zh">國會頻道1</display-name></channel>
+<channel id="100037"><display-name lang="zh">國會頻道2</display-name></channel>
+<channel id="100038"><display-name lang="zh">Channel V國際娛樂台HD</display-name></channel>
+<channel id="100039"><display-name lang="zh">Medici-arts</display-name></channel>
+<channel id="100040"><display-name lang="zh">MTV Live</display-name></channel>
+<channel id="100041"><display-name lang="zh">MTV綜合電視台</display-name></channel>
+<channel id="100042"><display-name lang="zh">Mezzo Live HD</display-name></channel>
+<channel id="100043"><display-name lang="zh">TRACE Urban</display-name></channel>
+<channel id="100044"><display-name lang="zh">古典音樂台CLASSICA HD</display-name></channel>
+<channel id="100045"><display-name lang="zh">CMusic</display-name></channel>
+<channel id="100046"><display-name lang="zh">愛爾達體育1台</display-name></channel>
+<channel id="100047"><display-name lang="zh">愛爾達體育2台</display-name></channel>
+<channel id="100048"><display-name lang="zh">愛爾達體育3台</display-name></channel>
+<channel id="100049"><display-name lang="zh">TRACE Sport Stars</display-name></channel>
+<channel id="100050"><display-name lang="zh">博斯高球一台</display-name></channel>
+<channel id="100051"><display-name lang="zh">博斯高球二台</display-name></channel>
+<channel id="100052"><display-name lang="zh">博斯網球台</display-name></channel>
+<channel id="100053"><display-name lang="zh">博斯魅力網</display-name></channel>
+<channel id="100054"><display-name lang="zh">博斯無限台</display-name></channel>
+<channel id="100055"><display-name lang="zh">博斯無限二台</display-name></channel>
+<channel id="100056"><display-name lang="zh">狼谷育樂台</display-name></channel>
+<channel id="100057"><display-name lang="zh">ELEVEN SPORTS PLUS</display-name></channel>
+<channel id="100058"><display-name lang="zh">博斯運動一台</display-name></channel>
+<channel id="100059"><display-name lang="zh">ELEVEN SPORTS 2</display-name></channel>
+<channel id="100060"><display-name lang="zh">智林體育台</display-name></channel>
+<channel id="100061"><display-name lang="zh">EUROSPORT</display-name></channel>
+<channel id="100062"><display-name lang="zh">博斯運動二台</display-name></channel>
+<channel id="100063"><display-name lang="zh">國家地理國際頻道</display-name></channel>
+<channel id="100064"><display-name lang="zh">國家地理高畫質野生頻道</display-name></channel>
+<channel id="100065"><display-name lang="zh">BBC Earth</display-name></channel>
+<channel id="100066"><display-name lang="zh">Discovery Asia</display-name></channel>
+<channel id="100067"><display-name lang="zh">Discovery科學頻道</display-name></channel>
+<channel id="100068"><display-name lang="zh">DMAX</display-name></channel>
+<channel id="100069"><display-name lang="zh">EVE</display-name></channel>
+<channel id="100070"><display-name lang="zh">HISTORY 2</display-name></channel>
+<channel id="100071"><display-name lang="zh">歷史頻道</display-name></channel>
+<channel id="100072"><display-name lang="zh">罪案偵緝頻道</display-name></channel>
+<channel id="100073"><display-name lang="zh">BBC Lifestyle Channel</display-name></channel>
+<channel id="100074"><display-name lang="zh">國家地理高畫質悠人頻道</display-name></channel>
+<channel id="100075"><display-name lang="zh">PET CLUB TV</display-name></channel>
+<channel id="100076"><display-name lang="zh">LUXE TV Channel</display-name></channel>
+<channel id="100077"><display-name lang="zh">Lifetime</display-name></channel>
+<channel id="100078"><display-name lang="zh">KLT-靖天國際台</display-name></channel>
+<channel id="100079"><display-name lang="zh">幸福空間居家台</display-name></channel>
+<channel id="100080"><display-name lang="zh">滾動力 rollor</display-name></channel>
+<channel id="100081"><display-name lang="zh">HGTV 居家樂活頻道</display-name></channel>
+<channel id="100082"><display-name lang="zh">LOVE NATURE</display-name></channel>
+<channel id="100083"><display-name lang="zh">美食星球頻道</display-name></channel>
+<channel id="100084"><display-name lang="zh">Asian Food Network 亞洲美食頻道</display-name></channel>
+<channel id="100085"><display-name lang="zh">Food Network 美食台頻道</display-name></channel>
+<channel id="100086"><display-name lang="zh">亞洲旅遊台</display-name></channel>
+<channel id="100087"><display-name lang="zh">EYE TV旅遊台</display-name></channel>
+<channel id="100088"><display-name lang="zh">Travel Channel</display-name></channel>
+<channel id="100089"><display-name lang="zh">時尚頻道</display-name></channel>
+<channel id="100090"><display-name lang="zh">Fashion One</display-name></channel>
+<channel id="100091"><display-name lang="zh">TV5MONDE STYLE HD 生活時尚</display-name></channel>
+<channel id="100092"><display-name lang="zh">東森購物1台</display-name></channel>
+<channel id="100093"><display-name lang="zh">愛爾達綜合台</display-name></channel>
+<channel id="100094"><display-name lang="zh">三立綜合台</display-name></channel>
+<channel id="100095"><display-name lang="zh">靖天綜合台</display-name></channel>
+<channel id="100096"><display-name lang="zh">靖天資訊台</display-name></channel>
+<channel id="100097"><display-name lang="zh">靖天育樂台</display-name></channel>
+<channel id="100098"><display-name lang="zh">Smart知識台</display-name></channel>
+<channel id="100099"><display-name lang="zh">台視綜合台</display-name></channel>
+<channel id="100100"><display-name lang="zh">亞洲綜合台</display-name></channel>
+<channel id="100101"><display-name lang="zh">中視經典台台</display-name></channel>
+<channel id="100102"><display-name lang="zh">寰宇HD綜合台</display-name></channel>
+<channel id="100103"><display-name lang="zh">中視菁采台</display-name></channel>
+<channel id="100104"><display-name lang="zh">TVBS精采台</display-name></channel>
+<channel id="100105"><display-name lang="zh">壹電視資訊綜合台</display-name></channel>
+<channel id="100106"><display-name lang="zh">緯來精采台</display-name></channel>
+<channel id="100107"><display-name lang="zh">天天電視台</display-name></channel>
+<channel id="100108"><display-name lang="zh">ETtoday綜合台</display-name></channel>
+<channel id="100109"><display-name lang="zh">民視第一台</display-name></channel>
+<channel id="100110"><display-name lang="zh">民視台灣台</display-name></channel>
+<channel id="100111"><display-name lang="zh">Nice TV 靖天歡樂台</display-name></channel>
+<channel id="100112"><display-name lang="zh">冠軍電視台</display-name></channel>
+<channel id="100113"><display-name lang="zh">新唐人亞太台</display-name></channel>
+<channel id="100114"><display-name lang="zh">八大優頻道</display-name></channel>
+<channel id="100115"><display-name lang="zh">momo2台</display-name></channel>
+<channel id="100116"><display-name lang="zh">東森購物3台</display-name></channel>
+<channel id="100117"><display-name lang="zh">三立戲劇台</display-name></channel>
+<channel id="100118"><display-name lang="zh">台灣戲劇台</display-name></channel>
+<channel id="100119"><display-name lang="zh">龍華戲劇</display-name></channel>
+<channel id="100120"><display-name lang="zh">龍華偶像</display-name></channel>
+<channel id="100121"><display-name lang="zh">龍華影劇</display-name></channel>
+<channel id="100122"><display-name lang="zh">愛爾達影劇台</display-name></channel>
+<channel id="100123"><display-name lang="zh">靖天戲劇台</display-name></channel>
+<channel id="100124"><display-name lang="zh">靖洋戲劇台</display-name></channel>
+<channel id="100125"><display-name lang="zh">EYE TV戲劇台</display-name></channel>
+<channel id="100126"><display-name lang="zh">東森購物2台</display-name></channel>
+<channel id="100127"><display-name lang="zh">WAKUWAKU JAPAN</display-name></channel>
+<channel id="100128"><display-name lang="zh">靖天日本台</display-name></channel>
+<channel id="100129"><display-name lang="zh">曼迪日本台</display-name></channel>
+<channel id="100130"><display-name lang="zh">MY101綜合台</display-name></channel>
+<channel id="100131"><display-name lang="zh">Animax</display-name></channel>
+<channel id="100132"><display-name lang="zh">i-Fun動漫台</display-name></channel>
+<channel id="100133"><display-name lang="zh">tvN</display-name></channel>
+<channel id="100134"><display-name lang="zh">韓國娛樂台KMTV</display-name></channel>
+<channel id="100135"><display-name lang="zh">華藝MBC綜合台</display-name></channel>
+<channel id="100136"><display-name lang="zh">星衛娛樂台</display-name></channel>
+<channel id="100137"><display-name lang="zh">BLUE ANT EXTREME</display-name></channel>
+<channel id="100138"><display-name lang="zh">BLUE ANT ENTERTAINMET</display-name></channel>
+<channel id="100139"><display-name lang="zh">美好2台</display-name></channel>
+<channel id="100140"><display-name lang="zh">momo1台</display-name></channel>
+<channel id="100141"><display-name lang="zh">東森購物4台</display-name></channel>
+<channel id="100142"><display-name lang="zh">中視新聞台</display-name></channel>
+<channel id="100143"><display-name lang="zh">寰宇新聞台</display-name></channel>
+<channel id="100144"><display-name lang="zh">寰宇新聞台灣台</display-name></channel>
+<channel id="100145"><display-name lang="zh">台視新聞台</display-name></channel>
+<channel id="100146"><display-name lang="zh">三立財經新聞台</display-name></channel>
+<channel id="100147"><display-name lang="zh">華視新聞資訊台</display-name></channel>
+<channel id="100148"><display-name lang="zh">壹電視新聞台</display-name></channel>
+<channel id="100149"><display-name lang="zh">民視新聞台</display-name></channel>
+<channel id="100150"><display-name lang="zh">寰宇財經台</display-name></channel>
+<channel id="100151"><display-name lang="zh">台視財經台</display-name></channel>
+<channel id="100152"><display-name lang="zh">美好1台</display-name></channel>
+<channel id="100153"><display-name lang="zh">東森購物5台</display-name></channel>
+<channel id="100154"><display-name lang="zh">CNN International</display-name></channel>
+<channel id="100155"><display-name lang="zh">BC World News</display-name></channel>
+<channel id="100156"><display-name lang="zh">Bloomberg TV</display-name></channel>
+<channel id="100157"><display-name lang="zh">Channel NewsAsia頻道</display-name></channel>
+<channel id="100158"><display-name lang="zh">CNBC Asia Channel</display-name></channel>
+<channel id="100159"><display-name lang="zh">Euronews</display-name></channel>
+<channel id="100160"><display-name lang="zh">德國之聲電視台</display-name></channel>
+<channel id="100161"><display-name lang="zh">FRANCE24(English)</display-name></channel>
+<channel id="100162"><display-name lang="zh">NHK新聞資訊台</display-name></channel>
+<channel id="100163"><display-name lang="zh">半島英語新聞台Al Jazeera English</display-name></channel>
+<channel id="100164"><display-name lang="zh">視納華仁紀實台</display-name></channel>
+<channel id="100165"><display-name lang="zh">影迷數位紀實台</display-name></channel>
+<channel id="100166"><display-name lang="zh">美亞電影台</display-name></channel>
+<channel id="100167"><display-name lang="zh">龍華電影</display-name></channel>
+<channel id="100168"><display-name lang="zh">星衛HD電影台</display-name></channel>
+<channel id="100169"><display-name lang="zh">靖天映畫</display-name></channel>
+<channel id="100170"><display-name lang="zh">靖天電影台</display-name></channel>
+<channel id="100171"><display-name lang="zh">龍華洋片</display-name></channel>
+<channel id="100172"><display-name lang="zh">Warner TV</display-name></channel>
+<channel id="100173"><display-name lang="zh">Star Movies HD</display-name></channel>
+<channel id="100174"><display-name lang="zh">福斯家庭電影台</display-name></channel>
+<channel id="100175"><display-name lang="zh">amc最愛電影</display-name></channel>
+<channel id="100176"><display-name lang="zh">HITS</display-name></channel>
+<channel id="100177"><display-name lang="zh">FX</display-name></channel>
+<channel id="100178"><display-name lang="zh">FOXCRIME</display-name></channel>
+<channel id="100179"><display-name lang="zh">FOX頻道</display-name></channel>
+<channel id="100180"><display-name lang="zh">龍華經典</display-name></channel>
+<channel id="100181"><display-name lang="zh">華藝影劇台</display-name></channel>
+<channel id="100182"><display-name lang="zh">CatchPlay電影台</display-name></channel>
+<channel id="100183"><display-name lang="zh">CinemaWorld</display-name></channel>
+<channel id="100184"><display-name lang="zh">壹電視電影台</display-name></channel>
+<channel id="100185"><display-name lang="zh">采昌影劇台</display-name></channel>
+<channel id="100186"><display-name lang="zh">影迷數位電影台</display-name></channel>
+<channel id="100187"><display-name lang="zh">My Cinema Europe HD 我的歐洲電影</display-name></channel>
+<channel id="100188"><display-name lang="zh">唯心電視台</display-name></channel>
+<channel id="100189"><display-name lang="zh">佛衛電視慈悲台</display-name></channel>
+<channel id="100190"><display-name lang="zh">華藏衛視</display-name></channel>
+<channel id="100191"><display-name lang="zh">生命電視台</display-name></channel>
+<channel id="100192"><display-name lang="zh">正德電視台</display-name></channel>
+<channel id="100193"><display-name lang="zh">TV5MONDE</display-name></channel>
+<channel id="100194"><display-name lang="zh">Arirang TV</display-name></channel>
+<channel id="100195"><display-name lang="zh">DW(Deutsch)</display-name></channel>
+<channel id="100196"><display-name lang="zh">TFC(ABS-CBN)</display-name></channel>
+<channel id="100197"><display-name lang="zh">FRANCE24(Fren)</display-name></channel>
+<channel id="100198"><display-name lang="zh">愛爾達奧運1台</display-name></channel>
+<channel id="100199"><display-name lang="zh">愛爾達奧運2台</display-name></channel>
+<channel id="100200"><display-name lang="zh">愛爾達奧運3台</display-name></channel>
 
 
 
 
+
+
+
+
+
+
+
+
+
+改為+1
+<channel id="100200"><display-name lang="zh">bb快報</display-name></channel>
+<channel id="100201"><display-name lang="zh">公用頻道</display-name></channel>
+<channel id="100202"><display-name lang="zh">高雄都會台</display-name></channel>
+<channel id="100203"><display-name lang="zh">CNN International</display-name></channel>
+<channel id="100204"><display-name lang="zh">民視無線台</display-name></channel>
+<channel id="100205"><display-name lang="zh">人間衛視</display-name></channel>
+<channel id="100206"><display-name lang="zh">台灣電視台</display-name></channel>
+<channel id="100207"><display-name lang="zh">大愛電視台</display-name></channel>
+<channel id="100208"><display-name lang="zh">中視數位台</display-name></channel>
+<channel id="100209"><display-name lang="zh">霹靂電視台</display-name></channel>
+<channel id="100210"><display-name lang="zh">中華電視台</display-name></channel>
+<channel id="100211"><display-name lang="zh">公共電視台</display-name></channel>
+<channel id="100212"><display-name lang="zh">公視台語台</display-name></channel>
+<channel id="100213"><display-name lang="zh">好消息衛星電視台</display-name></channel>
+<channel id="100214"><display-name lang="zh">原住民族電視台</display-name></channel>
+<channel id="100215"><display-name lang="zh">客家電視台</display-name></channel>
+<channel id="100216"><display-name lang="zh">國家地理頻道</display-name></channel>
+<channel id="100217"><display-name lang="zh">Discovery</display-name></channel>
+<channel id="100218"><display-name lang="zh">Discovery 旅遊生活頻道</display-name></channel>
+<channel id="100219"><display-name lang="zh">動物星球頻道</display-name></channel>
+<channel id="100220"><display-name lang="zh">迪士尼頻道</display-name></channel>
+<channel id="100221"><display-name lang="zh">Cartoon Network</display-name></channel>
+<channel id="100222"><display-name lang="zh">MOMO親子台</display-name></channel>
+<channel id="100223"><display-name lang="zh">東森幼幼台</display-name></channel>
+<channel id="100224"><display-name lang="zh">緯來綜合台</display-name></channel>
+<channel id="100225"><display-name lang="zh">八大第一台</display-name></channel>
+<channel id="100226"><display-name lang="zh">八大綜合台</display-name></channel>
+<channel id="100227"><display-name lang="zh">三立台灣台</display-name></channel>
+<channel id="100228"><display-name lang="zh">三立都會台</display-name></channel>
+<channel id="100229"><display-name lang="zh">衛視中文台</display-name></channel>
+<channel id="100230"><display-name lang="zh">東森綜合台</display-name></channel>
+<channel id="100231"><display-name lang="zh">超視</display-name></channel>
+<channel id="100232"><display-name lang="zh">東森購物2台</display-name></channel>
+<channel id="100233"><display-name lang="zh">momo2台</display-name></channel>
+<channel id="100234"><display-name lang="zh">中天綜合台</display-name></channel>
+<channel id="100235"><display-name lang="zh">東風衛視台</display-name></channel>
+<channel id="100236"><display-name lang="zh">MUCH TV</display-name></channel>
+<channel id="100237"><display-name lang="zh">中天娛樂台</display-name></channel>
+<channel id="100238"><display-name lang="zh">東森戲劇台</display-name></channel>
+<channel id="100239"><display-name lang="zh">八大戲劇台</display-name></channel>
+<channel id="100240"><display-name lang="zh">TVBS歡樂台</display-name></channel>
+<channel id="100241"><display-name lang="zh">緯來戲劇台</display-name></channel>
+<channel id="100242"><display-name lang="zh">高點電視台</display-name></channel>
+<channel id="100243"><display-name lang="zh">東森購物3台</display-name></channel>
+<channel id="100244"><display-name lang="zh">東森購物1台</display-name></channel>
+<channel id="100245"><display-name lang="zh">momo 1台</display-name></channel>
+<channel id="100246"><display-name lang="zh">三立財經新聞台</display-name></channel>
+<channel id="100247"><display-name lang="zh">壹電視新聞台</display-name></channel>
+<channel id="100248"><display-name lang="zh">era news 年代新聞</display-name></channel>
+<channel id="100249"><display-name lang="zh">東森新聞台</display-name></channel>
+<channel id="100250"><display-name lang="zh">華視新聞資訊台</display-name></channel>
+<channel id="100251"><display-name lang="zh">民視新聞台</display-name></channel>
+<channel id="100252"><display-name lang="zh">三立新聞台</display-name></channel>
+<channel id="100253"><display-name lang="zh">TVBS 新聞台</display-name></channel>
+<channel id="100254"><display-name lang="zh">TVBS</display-name></channel>
+<channel id="100255"><display-name lang="zh">東森財經新聞台</display-name></channel>
+<channel id="100256"><display-name lang="zh">非凡新聞台</display-name></channel>
+<channel id="100257"><display-name lang="zh">ViVa 1台</display-name></channel>
+<channel id="100258"><display-name lang="zh">東森購物5台</display-name></channel>
+<channel id="100259"><display-name lang="zh">衛視電影台</display-name></channel>
+<channel id="100260"><display-name lang="zh">東森電影台</display-name></channel>
+<channel id="100261"><display-name lang="zh">緯來電影台</display-name></channel>
+<channel id="100262"><display-name lang="zh">LS TIME電影台</display-name></channel>
+<channel id="100263"><display-name lang="zh">HBO</display-name></channel>
+<channel id="100264"><display-name lang="zh">東森洋片台</display-name></channel>
+<channel id="100265"><display-name lang="zh">AXN</display-name></channel>
+<channel id="100266"><display-name lang="zh">好萊塢電影台</display-name></channel>
+<channel id="100267"><display-name lang="zh">FOX MOVIES</display-name></channel>
+<channel id="100268"><display-name lang="zh">CINEMAX</display-name></channel>
+<channel id="100269"><display-name lang="zh">緯來育樂台</display-name></channel>
+<channel id="100270"><display-name lang="zh">緯來體育台</display-name></channel>
+<channel id="100271"><display-name lang="zh">ELEVEN SPORTS 1</display-name></channel>
+<channel id="100272"><display-name lang="zh">ELEVEN SPORTS 2</display-name></channel>
+<channel id="100273"><display-name lang="zh">MOMO綜合台</display-name></channel>
+<channel id="100274"><display-name lang="zh">緯來日本台</display-name></channel>
+<channel id="100275"><display-name lang="zh">國興衛視</display-name></channel>
+<channel id="100276"><display-name lang="zh">FOX頻道</display-name></channel>
+<channel id="100277"><display-name lang="zh">MTV綜合電視台</display-name></channel>
+<channel id="100278"><display-name lang="zh">靖天購物一台</display-name></channel>
+<channel id="100279"><display-name lang="zh">靖天資訊台</display-name></channel>
+<channel id="100280"><display-name lang="zh">信吉電視台</display-name></channel>
+<channel id="100281"><display-name lang="zh">WAKUWAKU JAPAN</display-name></channel>
+<channel id="100282"><display-name lang="zh">ANIMAX</display-name></channel>
+<channel id="100283"><display-name lang="zh">寰宇新聞台</display-name></channel>
+<channel id="100284"><display-name lang="zh">八大娛樂台</display-name></channel>
+<channel id="100285"><display-name lang="zh">冠軍電視台</display-name></channel>
+<channel id="100286"><display-name lang="zh">JET TV</display-name></channel>
+<channel id="100287"><display-name lang="zh">非凡商業台</display-name></channel>
+<channel id="100288"><display-name lang="zh">運通財經綜合台</display-name></channel>
+<channel id="100289"><display-name lang="zh">全球財經網頻道</display-name></channel>
+<channel id="100290"><display-name lang="zh">誠心電視台</display-name></channel>
+<channel id="100291"><display-name lang="zh">亞洲旅遊台</display-name></channel>
+<channel id="100292"><display-name lang="zh">Z頻道</display-name></channel>
+<channel id="100293"><display-name lang="zh">海豚綜合台</display-name></channel>
+<channel id="100294"><display-name lang="zh">威達超舜生活台</display-name></channel>
+<channel id="100295"><display-name lang="zh">台灣藝術台</display-name></channel>
+<channel id="100296"><display-name lang="zh">華藏衛星電視台</display-name></channel>
+<channel id="100297"><display-name lang="zh">十方法界電視台</display-name></channel>
+<channel id="100298"><display-name lang="zh">世界衛星電視台</display-name></channel>
+<channel id="100299"><display-name lang="zh">佛衛電視慈悲台</display-name></channel>
+<channel id="100300"><display-name lang="zh">信大電視台</display-name></channel>
+<channel id="100301"><display-name lang="zh">NHK WORLD PREMIUM</display-name></channel>
+<channel id="100302"><display-name lang="zh">全大電視台</display-name></channel>
+<channel id="100303"><display-name lang="zh">正德電視台</display-name></channel>
+<channel id="100304"><display-name lang="zh">天良綜合台</display-name></channel>
+<channel id="100305"><display-name lang="zh">番薯衛星電視台</display-name></channel>
+<channel id="100306"><display-name lang="zh">富立電視台</display-name></channel>
+<channel id="100307"><display-name lang="zh">台灣綜合台</display-name></channel>
+<channel id="100308"><display-name lang="zh">冠軍夢想台</display-name></channel>
+<channel id="100309"><display-name lang="zh">新天地民俗台</display-name></channel>
+<channel id="100310"><display-name lang="zh">三聖電視台</display-name></channel>
+<channel id="100311"><display-name lang="zh">天美麗電視台</display-name></channel>
+<channel id="100312"><display-name lang="zh">大立電視台</display-name></channel>
+<channel id="100313"><display-name lang="zh">雙子衛視</display-name></channel>
+<channel id="100314"><display-name lang="zh">公視3台</display-name></channel>
+<channel id="100315"><display-name lang="zh">華視教育體育文化台</display-name></channel>
+<channel id="100316"><display-name lang="zh">國會頻道1台</display-name></channel>
+<channel id="100317"><display-name lang="zh">國會頻道2台</display-name></channel>
+<channel id="100318"><display-name lang="zh">幸福空間居家台</display-name></channel>
+<channel id="100319"><display-name lang="zh">智林體育台</display-name></channel>
+<channel id="100320"><display-name lang="zh">大愛二台</display-name></channel>
+<channel id="100321"><display-name lang="zh">好消息二台</display-name></channel>
+<channel id="100322"><display-name lang="zh">高點育樂台</display-name></channel>
+<channel id="100323"><display-name lang="zh">靖天綜合台</display-name></channel>
+<channel id="100324"><display-name lang="zh">唯心電視台</display-name></channel>
+<channel id="100325"><display-name lang="zh">民視第一台</display-name></channel>
+<channel id="100326"><display-name lang="zh">民視台灣台</display-name></channel>
+<channel id="100327"><display-name lang="zh">中視菁采台</display-name></channel>
+<channel id="100328"><display-name lang="zh">中視新聞台</display-name></channel>
+<channel id="100329"><display-name lang="zh">台視新聞台</display-name></channel>
+<channel id="100330"><display-name lang="zh">台視財經台</display-name></channel>
+<channel id="100331"><display-name lang="zh">台視綜合台</display-name></channel>
+<channel id="100332"><display-name lang="zh">美麗人生購物台</display-name></channel>
+<channel id="100333"><display-name lang="zh">Bloomberg Television</display-name></channel>
+<channel id="100334"><display-name lang="zh">BBC World News</display-name></channel>
+<channel id="100335"><display-name lang="zh">TV5MONDE</display-name></channel>
+<channel id="100336"><display-name lang="zh">Channel News Asia</display-name></channel>
+<channel id="100337"><display-name lang="zh">狼谷育樂台</display-name></channel>
+<channel id="100338"><display-name lang="zh">BBC Earth</display-name></channel>
+<channel id="100339"><display-name lang="zh">BBC Lifestyle</display-name></channel>
+<channel id="100340"><display-name lang="zh">Asian Food Network 亞洲美食頻道</display-name></channel>
+<channel id="100341"><display-name lang="zh">梅迪奇藝術頻道</display-name></channel>
+<channel id="100342"><display-name lang="zh">Discovery Asia</display-name></channel>
+<channel id="100343"><display-name lang="zh">Discovery科學頻道</display-name></channel>
+<channel id="100344"><display-name lang="zh">DMAX</display-name></channel>
+<channel id="100345"><display-name lang="zh">EVE</display-name></channel>
+<channel id="100346"><display-name lang="zh">博斯運動一台</display-name></channel>
+<channel id="100347"><display-name lang="zh">HITS</display-name></channel>
+<channel id="100348"><display-name lang="zh">國家地理國際頻道</display-name></channel>
+<channel id="100349"><display-name lang="zh">國家地理高畫質野生頻道</display-name></channel>
+<channel id="100350"><display-name lang="zh">國家地理高畫質悠人頻道</display-name></channel>
+<channel id="100351"><display-name lang="zh">amc最愛頻道</display-name></channel>
+<channel id="100352"><display-name lang="zh">My Cinema Europe HD 我的歐洲電影</display-name></channel>
+<channel id="100353"><display-name lang="zh">HBO HD</display-name></channel>
+<channel id="100354"><display-name lang="zh">HBO Signature 原創鉅獻</display-name></channel>
+<channel id="100355"><display-name lang="zh">HBO Hits 強檔鉅獻</display-name></channel>
+<channel id="100356"><display-name lang="zh">HBO Family</display-name></channel>
+<channel id="100357"><display-name lang="zh">tvN</display-name></channel>
+<channel id="100358"><display-name lang="zh">星衛娛樂台</display-name></channel>
+<channel id="100359"><display-name lang="zh">星衛HD電影台</display-name></channel>
+<channel id="100360"><display-name lang="zh">Star Movie HD</display-name></channel>
+<channel id="100361"><display-name lang="zh">福斯家庭電影台</display-name></channel>
+<channel id="100362"><display-name lang="zh">福斯警匪頻道</display-name></channel>
+<channel id="100363"><display-name lang="zh">FX</display-name></channel>
+<channel id="100364"><display-name lang="zh">Warner TV</display-name></channel>
+<channel id="100365"><display-name lang="zh">MTV Live音樂頻道</display-name></channel>
+<channel id="100366"><display-name lang="zh">BaBy TV</display-name></channel>
+<channel id="100367"><display-name lang="zh">Nickelodeon Asia尼克兒童頻道</display-name></channel>
+<channel id="100368"><display-name lang="zh">Nick Jr.(小尼克)</display-name></channel>
+<channel id="100369"><display-name lang="zh">Cbeebies</display-name></channel>
+<channel id="100370"><display-name lang="zh">Eurosport</display-name></channel>
+<channel id="100371"><display-name lang="zh">博斯運動二台</display-name></channel>
+<channel id="100372"><display-name lang="zh">博斯高球一台</display-name></channel>
+<channel id="100373"><display-name lang="zh">博斯高球二台</display-name></channel>
+<channel id="100374"><display-name lang="zh">博斯魅力網</display-name></channel>
+<channel id="100375"><display-name lang="zh">博斯網球台</display-name></channel>
+<channel id="100376"><display-name lang="zh">博斯無限台</display-name></channel>
+<channel id="100377"><display-name lang="zh">博斯無限二台</display-name></channel>
+<channel id="100378"><display-name lang="zh">彩虹頻道</display-name></channel>
+<channel id="100379"><display-name lang="zh">松視4台</display-name></channel>
+<channel id="100380"><display-name lang="zh">Pandora潘朵啦高畫質玩美台</display-name></channel>
+<channel id="100381"><display-name lang="zh">Pandora潘朵啦高畫質粉紅台</display-name></channel>
+<channel id="100382"><display-name lang="zh">松視1台</display-name></channel>
+<channel id="100383"><display-name lang="zh">松視2台</display-name></channel>
+<channel id="100384"><display-name lang="zh">松視3台</display-name></channel>
+<channel id="100385"><display-name lang="zh">彩虹E台</display-name></channel>
+<channel id="100386"><display-name lang="zh">彩虹Movie台</display-name></channel>
+<channel id="100387"><display-name lang="zh">K頻道</display-name></channel>
+<channel id="100388"><display-name lang="zh">HOT頻道</display-name></channel>
+<channel id="100389"><display-name lang="zh">HAPPY頻道</display-name></channel>
+<channel id="100390"><display-name lang="zh">玩家頻道</display-name></channel>
+<channel id="100391"><display-name lang="zh">驚豔成人電影台</display-name></channel>
+<channel id="100392"><display-name lang="zh">香蕉台</display-name></channel>
+<channel id="100393"><display-name lang="zh">樂活頻道</display-name></channel>
+
+
+<channel id="100400"><display-name lang="zh">myTV SUPER 18台</display-name></channel>
+<channel id="100401"><display-name lang="zh">翡翠台</display-name></channel>
+<channel id="100402"><display-name lang="zh">J2</display-name></channel>
+<channel id="100403"><display-name lang="zh">無綫新聞台</display-name></channel>
+<channel id="100404"><display-name lang="zh">明珠台</display-name></channel>
+<channel id="100405"><display-name lang="zh">無綫財經</display-name></channel>
+<channel id="100406"><display-name lang="zh">TVB經典台</display-name></channel>
+<channel id="100407"><display-name lang="zh">韓劇台</display-name></channel>
+<channel id="100408"><display-name lang="zh">華語劇台</display-name></channel>
+<channel id="100409"><display-name lang="zh">娛樂新聞台</display-name></channel>
+<channel id="100410"><display-name lang="zh">綜藝旅遊台</display-name></channel>
+<channel id="100411"><display-name lang="zh">為食台 </display-name></channel>
+<channel id="100412"><display-name lang="zh">TVB Radio</display-name></channel>
+<channel id="100413"><display-name lang="zh">戲曲台</display-name></channel>
+<channel id="100414"><display-name lang="zh">兒童台 (100)</display-name></channel>
+<channel id="100415"><display-name lang="zh">粵語片台</display-name></channel>
+<channel id="100416"><display-name lang="zh">美亞電影台 </display-name></channel>
+<channel id="100417"><display-name lang="zh">天映經典頻道 </display-name></channel>
+<channel id="100418"><display-name lang="zh">中國電影頻道</display-name></channel>
+<channel id="100419"><display-name lang="zh">無綫新聞台</display-name></channel>
+<channel id="100420"><display-name lang="zh">神州新聞台</display-name></channel>
+<channel id="100421"><display-name lang="zh">TVBS新聞台</display-name></channel>
+<channel id="100422"><display-name lang="zh">myTV SUPER直播足球1台</display-name></channel>
+<channel id="100423"><display-name lang="zh">myTV SUPER直播足球2台</display-name></channel>
+<channel id="100424"><display-name lang="zh">myTV SUPER直播足球3台</display-name></channel>
+<channel id="100425"><display-name lang="zh">KIX電影台</display-name></channel>
+
+
+
+<channel id="1004440"><display-name lang="zh">香港開電視</display-name></channel>
+<channel id="1004441"><display-name lang="zh">香港國際財經</display-name></channel>
+<channel id="1004442"><display-name lang="zh">香港開</display-name></channel>
+<channel id="1004443"><display-name lang="zh">香港國際財經</display-name></channel>
+<channel id="1004444"><display-name lang="zh">有線財經資訊台</display-name></channel>
+<channel id="1004445"><display-name lang="zh">有線新聞台</display-name></channel>
+<channel id="1004446"><display-name lang="zh">有線直播</display-name></channel>
+<channel id="1004447"><display-name lang="zh">中央電視台新聞頻道</display-name></channel>
+<channel id="1004448"><display-name lang="zh">中央電視台國際頻道</display-name></channel>
+<channel id="1004449"><display-name lang="zh">鳳凰資訊頻道</display-name></channel>
+<channel id="1004450"><display-name lang="zh">東森亞洲新聞</display-name></channel>
+<channel id="1004451"><display-name lang="zh">skynews</display-name></channel>
+<channel id="1004452"><display-name lang="zh">BBC WORLD NEWS</display-name></channel>
+<channel id="1004453"><display-name lang="zh">FOXNEWS</display-name></channel>
+<channel id="1004454"><display-name lang="zh">CNNI</display-name></channel>
+<channel id="1004455"><display-name lang="zh">CNN HLN NEWS</display-name></channel>
+<channel id="1004456"><display-name lang="zh">NHK WORLD NEWS</display-name></channel>
+<channel id="1004457"><display-name lang="zh">CNBCHK</display-name></channel>
+<channel id="1004458"><display-name lang="zh">Bloomberg TV</display-name></channel>
+<channel id="1004459"><display-name lang="zh">中國環球電視網</display-name></channel>
+<channel id="1004460"><display-name lang="zh">亞洲新聞</display-name></channel>
+<channel id="1004461"><display-name lang="zh">今日俄羅斯</display-name></channel>
+<channel id="1004462"><display-name lang="zh">半島新聞</display-name></channel>
+<channel id="1004463"><display-name lang="zh">法國24小時法語</display-name></channel>
+<channel id="1004464"><display-name lang="zh">法國24小時英語</display-name></channel>
+<channel id="1004465"><display-name lang="zh">dw英語</display-name></channel>
+<channel id="1004466"><display-name lang="zh">dw德語</display-name></channel>
+<channel id="1004467"><display-name lang="zh">香港有線財經資訊台</display-name></channel>
+<channel id="1004468"><display-name lang="zh">香港有線新聞台</display-name></channel>
+<channel id="1004469"><display-name lang="zh">香港有線直播新聞台</display-name></channel>
+<channel id="1004470"><display-name lang="zh">鳳凰資訊台</display-name></channel>
+<channel id="1004471"><display-name lang="zh">彭博社財經</display-name></channel>
+<channel id="1004472"><display-name lang="zh">香港有線電影台</display-name></channel>
+<channel id="1004473"><display-name lang="zh">光影歐洲台</display-name></channel>
+<channel id="1004474"><display-name lang="zh">衛視電影台</display-name></channel>
+<channel id="1004475"><display-name lang="zh">衛視卡式台</display-name></channel>
+<channel id="1004476"><display-name lang="zh">福克斯電影台</display-name></channel>
+<channel id="1004477"><display-name lang="zh">福克斯家庭台</display-name></channel>
+<channel id="1004478"><display-name lang="zh">福克斯動作台</display-name></channel>
+<channel id="1004479"><display-name lang="zh">高清私人影院</display-name></channel>
+<channel id="1004480"><display-name lang="zh">驚慄電影台</display-name></channel>
+<channel id="1004481"><display-name lang="zh">香港有線電影台</display-name></channel>
+<channel id="1004482"><display-name lang="zh">光影歐洲</display-name></channel>
+<channel id="1004483"><display-name lang="zh">cine p</display-name></channel>
+<channel id="1004484"><display-name lang="zh">綜合娛樂台 *</display-name></channel>
+<channel id="1004485"><display-name lang="zh">鳳凰衛視香港台</display-name></channel>
+<channel id="1004486"><display-name lang="zh">珠江頻道</display-name></channel>
+<channel id="1004487"><display-name lang="zh"> FOX</display-name></channel>
+<channel id="1004488"><display-name lang="zh">FOXlife</display-name></channel>
+<channel id="1004489"><display-name lang="zh">FX</display-name></channel>
+<channel id="1004490"><display-name lang="zh">Blue Ant 綜藝娛樂 HD</display-name></channel>
+<channel id="1004491"><display-name lang="zh">Blue Ant 超極娛樂 HD</display-name></channel>
+<channel id="1004492"><display-name lang="zh">Fashion TV HD</display-name></channel>
+<channel id="1004493"><display-name lang="zh">tvN HD</display-name></channel>
+<channel id="1004494"><display-name lang="zh">NHK World Pr</display-name></channel>
+<channel id="1004495"><display-name lang="zh">Arirang TV</display-name></channel>
+<channel id="1004496"><display-name lang="zh">ABC Australia</display-name></channel>
+<channel id="1004497"><display-name lang="zh">東森亞洲衛視</display-name></channel>
+<channel id="1004498"><display-name lang="zh">衛視中文台</display-name></channel>
+<channel id="1004499"><display-name lang="zh">MTV Asia</display-name></channel>
+<channel id="1004500"><display-name lang="zh">東方衛視國際頻道</display-name></channel>
+<channel id="1004501"><display-name lang="zh">深圳電視台</display-name></channel>
+<channel id="1004502"><display-name lang="zh">湖南廣播電視台國際頻道</display-name></channel>
+<channel id="1004503"><display-name lang="zh">湖北衛視</display-name></channel>
+<channel id="1004504"><display-name lang="zh">中央電視台戲曲頻道</display-name></channel>
+<channel id="1004505"><display-name lang="zh">中央電視台綜合頻道</display-name></channel>
+<channel id="1004506"><display-name lang="zh">香港有線綜合娛樂台</display-name></channel>
+<channel id="1004507"><display-name lang="zh">Fashion TV</display-name></channel>
+<channel id="1004508"><display-name lang="zh">鳯凰衛視中文台</display-name></channel>
+<channel id="1004509"><display-name lang="zh">tvN</display-name></channel>
+<channel id="1004510"><display-name lang="zh">Blue Ant 綜藝娛樂</display-name></channel>
+<channel id="1004511"><display-name lang="zh">東森亞洲幼幼台</display-name></channel>
+<channel id="1004512"><display-name lang="zh">夢工廠</display-name></channel>
+<channel id="1004513"><display-name lang="zh">卡通頻道</display-name></channel>
+<channel id="1004514"><display-name lang="zh">Boomerang 頻道</display-name></channel>
+<channel id="1004515"><display-name lang="zh">達文西頻道</display-name></channel>
+<channel id="1004516"><display-name lang="zh">Nickelodeon</display-name></channel>
+<channel id="1004517"><display-name lang="zh">Nick Jr.</display-name></channel>
+<channel id="1004518"><display-name lang="zh">Baby TV</display-name></channel>
+<channel id="1004519"><display-name lang="zh">CBeebies</display-name></channel>
+<channel id="1004520"><display-name lang="zh">ZooMoo</display-name></channel>
+<channel id="1004521"><display-name lang="zh">Disney Channel</display-name></channel>
+<channel id="1004522"><display-name lang="zh">Disney Junior</display-name></channel>
+<channel id="1004523"><display-name lang="zh">香港有線高清體育台</display-name></channel>
+<channel id="1004524"><display-name lang="zh">Sports Plus 1 HD</display-name></channel>
+<channel id="1004525"><display-name lang="zh">高清603台</display-name></channel>
+<channel id="1004526"><display-name lang="zh">Sports Plus 2 HD</display-name></channel>
+<channel id="1004527"><display-name lang="zh">Sports Plus 3 HD</display-name></channel>
+<channel id="1004528"><display-name lang="zh">Fox Sports</display-name></channel>
+<channel id="1004529"><display-name lang="zh">Fox Sports 2 </display-name></channel>
+<channel id="1004530"><display-name lang="zh">Fox Sports 3</display-name></channel>
+<channel id="1004531"><display-name lang="zh">beIN Sports 1</display-name></channel>
+<channel id="1004532"><display-name lang="zh">beIN Sports 2</display-name></channel>
+<channel id="1004533"><display-name lang="zh">beIN SPORTS MAX</display-name></channel>
+<channel id="1004534"><display-name lang="zh">香港有線18台</display-name></channel>
+<channel id="1004535"><display-name lang="zh">Fox Sports</display-name></channel>
+<channel id="1004536"><display-name lang="zh">Fox Sports 2</display-name></channel>
+<channel id="1004537"><display-name lang="zh">Fox Sports 3</display-name></channel>
+<channel id="1004538"><display-name lang="zh">beIN Sports 1</display-name></channel>
+<channel id="1004539"><display-name lang="zh">beIN Sports 2</display-name></channel>
+<channel id="1004540"><display-name lang="zh">beIN SPORTS MAX</display-name></channel>
+<channel id="1004541"><display-name lang="zh">香港有線體育台</display-name></channel>
+<channel id="1004542"><display-name lang="zh">Sports Plus 1</display-name></channel>
+<channel id="1004543"><display-name lang="zh">Sports Plus 2</display-name></channel>
+<channel id="1004544"><display-name lang="zh">Sports Plus 3</display-name></channel>
+<channel id="1004545"><display-name lang="zh">賽馬1台</display-name></channel>
+<channel id="1004546"><display-name lang="zh">賽馬2台 </display-name></channel>
+<channel id="1004547"><display-name lang="zh">國家地理野生高清頻道</display-name></channel>
+<channel id="1004548"><display-name lang="zh">國家地理高清頻道</display-name></channel>
+<channel id="1004549"><display-name lang="zh">國家地理悠人高清頻道</display-name></channel>
+<channel id="1004550"><display-name lang="zh">戶外頻道</display-name></channel>
+<channel id="1004551"><display-name lang="zh">Discovery Asia</display-name></channel>
+<channel id="1004552"><display-name lang="zh">Discovery高清頻道</display-name></channel>
+<channel id="1004553"><display-name lang="zh">旅遊生活高清頻道</display-name></channel>
+<channel id="1004554"><display-name lang="zh">EVE 高清頻道</display-name></channel>
+<channel id="1004555"><display-name lang="zh">動物星球高清頻道</display-name></channel>
+<channel id="1004556"><display-name lang="zh">Discovery 科學高清頻道</display-name></channel>
+<channel id="1004557"><display-name lang="zh">DMAX 高清頻道</display-name></channel>
+<channel id="1004558"><display-name lang="zh">BBC Lifestyle 高清頻道</display-name></channel>
+<channel id="1004559"><display-name lang="zh">BBC Eart</display-name></channel>
+<channel id="1004560"><display-name lang="zh">中國環球電視網紀錄頻道</display-name></channel>
+<channel id="1004561"><display-name lang="zh">Pet Club TV</display-name></channel>
+<channel id="1004562"><display-name lang="zh">國家地理野生頻道</display-name></channel>
+<channel id="1004563"><display-name lang="zh">國家地理頻道</display-name></channel>
+<channel id="1004564"><display-name lang="zh">國家地理悠人頻道</display-name></channel>
+<channel id="1004565"><display-name lang="zh">Discovery</display-name></channel>
+<channel id="1004566"><display-name lang="zh">旅遊生活頻道</display-name></channel>
+<channel id="1004567"><display-name lang="zh">EVE</display-name></channel>
+<channel id="1004568"><display-name lang="zh">動物星球頻道</display-name></channel>
+<channel id="1004569"><display-name lang="zh">Discovery科學頻道</display-name></channel>
+<channel id="1004570"><display-name lang="zh">DMAX</display-name></channel>
+<channel id="1004571"><display-name lang="zh">BBC Lifestyle</display-name></channel>
+<channel id="1004572"><display-name lang="zh">戶外頻道 </display-name></channel>
+<channel id="1004573"><display-name lang="zh">Zee TV </display-name></channel>
+<channel id="1004574"><display-name lang="zh">WION </display-name></channel>
+<channel id="1004575"><display-name lang="zh">Zee Cinema </display-name></channel>
+<channel id="1004576"><display-name lang="zh">Zing </display-name></channel>
+<channel id="1004577"><display-name lang="zh">歡樂台 </display-name></channel>
+<channel id="1004578"><display-name lang="zh">惹火台 </display-name></channel>
+
+<channel id="100580"><display-name lang="zh">viu6</display-name></channel>
+<channel id="100581"><display-name lang="zh">viu</display-name></channel>
+<channel id="100582"><display-name lang="zh">now 劇集</display-name></channel>
+<channel id="100583"><display-name lang="zh">video express rentnow</display-name></channel>
+<channel id="100584"><display-name lang="zh">nowjeli</display-name></channel>
+<channel id="100585"><display-name lang="zh">hbo hits</display-name></channel>
+<channel id="100586"><display-name lang="zh">hbo family</display-name></channel>
+<channel id="100587"><display-name lang="zh">cinemax</display-name></channel>
+<channel id="100588"><display-name lang="zh">爆谷台</display-name></channel>
+<channel id="100589"><display-name lang="zh">東森亞洲</display-name></channel>
+<channel id="100590"><display-name lang="zh">tvbs</display-name></channel>
+<channel id="100591"><display-name lang="zh">moov </display-name></channel>
+<channel id="100592"><display-name lang="zh">now直播 </display-name></channel>
+<channel id="100593"><display-name lang="zh">now新聞 </display-name></channel>
+<channel id="100594"><display-name lang="zh">now財經 </display-name></channel>
+<channel id="100595"><display-name lang="zh">now報價 </display-name></channel>
+<channel id="100596"><display-name lang="zh">第一財經 </display-name></channel>
+<channel id="100597"><display-name lang="zh">鳳凰資訊 </display-name></channel>
+<channel id="100598"><display-name lang="zh">鳳凰中文 </display-name></channel>
+<channel id="100599"><display-name lang="zh">香港衛視 </display-name></channel>
+<channel id="100600"><display-name lang="zh">東森亞洲新聞 </display-name></channel>
+<channel id="100601"><display-name lang="zh">中天亞洲台 </display-name></channel>
+<channel id="100602"><display-name lang="zh">now體育 </display-name></channel>
+<channel id="100603"><display-name lang="zh">now體育4k </display-name></channel>
+<channel id="100604"><display-name lang="zh">now體育4k </display-name></channel>
+<channel id="100605"><display-name lang="zh">now體育4k </display-name></channel>
+<channel id="100606"><display-name lang="zh">now體育 </display-name></channel>
+<channel id="100607"><display-name lang="zh">now體育 </display-name></channel>
+<channel id="100608"><display-name lang="zh">Now Sports Premier League TV </display-name></channel>
+<channel id="100609"><display-name lang="zh">Now Sports Premier League TV1 </display-name></channel>
+<channel id="100610"><display-name lang="zh">Now Sports Premier League TV2 </display-name></channel>
+<channel id="100611"><display-name lang="zh">Now Sports Premier League TV3 </display-name></channel>
+<channel id="100612"><display-name lang="zh">Now Sports Premier League TV4 </display-name></channel>
+<channel id="100613"><display-name lang="zh">Now Sports Premier League TV5 </display-name></channel>
+<channel id="100614"><display-name lang="zh">Now Sports Premier League TV6 </display-name></channel>
+<channel id="100615"><display-name lang="zh">Now Sports Premier  </display-name></channel>
+<channel id="100616"><display-name lang="zh">Now Sports 1 </display-name></channel>
+<channel id="100617"><display-name lang="zh">Now Sports 2 </display-name></channel>
+<channel id="100618"><display-name lang="zh">Now Sports 3 </display-name></channel>
+<channel id="100619"><display-name lang="zh">Now Sports 4 </display-name></channel>
+<channel id="100620"><display-name lang="zh">Now Sports 5 </display-name></channel>
+<channel id="100621"><display-name lang="zh">Now Sports 6 </display-name></channel>
+<channel id="100622"><display-name lang="zh">Now Sports 7 </display-name></channel>
+<channel id="100623"><display-name lang="zh">Now Sports 650 </display-name></channel>
+<channel id="100624"><display-name lang="zh">Now Sports 651 </display-name></channel>
+<channel id="100625"><display-name lang="zh">Now Sports 668 </display-name></channel>
+<channel id="100626"><display-name lang="zh">Now Sports plus </display-name></channel>
+<channel id="100627"><display-name lang="zh">Now Sports 681 </display-name></channel>
+<channel id="100628"><display-name lang="zh">Now 高爾夫2 </display-name></channel>
+<channel id="100629"><display-name lang="zh">Now 高爾夫3 </display-name></channel>
+<channel id="100630"><display-name lang="zh">china v </display-name></channel>
+<channel id="100631"><display-name lang="zh">澳亞衛視 </display-name></channel>
