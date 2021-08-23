@@ -671,8 +671,7 @@
 <channel id="100694"><display-name lang="zh">泉州影视</display-name></channel>
 <channel id="100695"><display-name lang="zh">宁德公共</display-name></channel>
 <channel id="100696"><display-name lang="zh">广东卫视</display-name></channel>
-<channel id="100697"><display-name lang="zh">广东体育</display-name></channel>
-<channel id="100698"><display-name lang="zh">广州综合</display-name></channel>
+<channel id="100697"><display-name lang="zh">广州综合</display-name></channel>
 <channel id="100699"><display-name lang="zh">深圳体育</display-name></channel>
 <channel id="100700"><display-name lang="zh">汕头经济</display-name></channel>
 <channel id="100701"><display-name lang="zh">湖南都市</display-name></channel>
@@ -779,7 +778,6 @@
 <channel id="100802"><display-name lang="zh">温州新闻</display-name></channel>
 <channel id="100803"><display-name lang="zh">哈尔滨综合</display-name></channel>
 <channel id="100804"><display-name lang="zh">哈尔滨资讯</display-name></channel>
-<channel id="100805"><display-name lang="zh">哈尔滨生活</display-name></channel>
 <channel id="100806"><display-name lang="zh">哈尔滨娱乐</display-name></channel>
 <channel id="100807"><display-name lang="zh">哈尔滨影视</display-name></channel>
 <channel id="100808"><display-name lang="zh">黑龙江都市</display-name></channel>
