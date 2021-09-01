@@ -149,7 +149,7 @@
 <channel id="100152"><display-name lang="zh">美好1台</display-name></channel>
 <channel id="100153"><display-name lang="zh">東森購物5台</display-name></channel>
 <channel id="100154"><display-name lang="zh">CNN International</display-name></channel>
-<channel id="100155"><display-name lang="zh">BBC World News</display-name></channel>
+<channel id="100155"><display-name lang="zh">BC World News</display-name></channel>
 <channel id="100156"><display-name lang="zh">Bloomberg TV</display-name></channel>
 <channel id="100157"><display-name lang="zh">Channel NewsAsia頻道</display-name></channel>
 <channel id="100158"><display-name lang="zh">CNBC Asia Channel</display-name></channel>
@@ -411,10 +411,11 @@
 <channel id="100419"><display-name lang="zh">無綫新聞台</display-name></channel>
 <channel id="100420"><display-name lang="zh">神州新聞台</display-name></channel>
 <channel id="100421"><display-name lang="zh">TVBS新聞台</display-name></channel>
-<channel id="100422"><display-name lang="zh">myTV SUPER直播足球1台</display-name></channel>
-<channel id="100423"><display-name lang="zh">myTV SUPER直播足球2台</display-name></channel>
-<channel id="100424"><display-name lang="zh">myTV SUPER直播足球3台</display-name></channel>
-<channel id="100425"><display-name lang="zh">KIX電影台</display-name></channel>
+<channel id="100422"><display-name lang="zh">創世電視</display-name></channel>
+<channel id="100423"><display-name lang="zh">myTV SUPER直播足球1台</display-name></channel>
+<channel id="100424"><display-name lang="zh">myTV SUPER直播足球2台</display-name></channel>
+<channel id="100425"><display-name lang="zh">myTV SUPER直播足球3台</display-name></channel>
+
 <channel id="100440"><display-name lang="zh">香港開電視</display-name></channel>
 <channel id="100441"><display-name lang="zh">香港國際財經</display-name></channel>
 <channel id="100442"><display-name lang="zh">香港開</display-name></channel>
@@ -459,7 +460,7 @@
 <channel id="100481"><display-name lang="zh">香港有線電影台</display-name></channel>
 <channel id="100482"><display-name lang="zh">光影歐洲</display-name></channel>
 <channel id="100483"><display-name lang="zh">cine p</display-name></channel>
-<channel id="100484"><display-name lang="zh">綜合娛樂台 *</display-name></channel>
+<channel id="100484"><display-name lang="zh">綜合娛樂台</display-name></channel>
 <channel id="100485"><display-name lang="zh">鳳凰衛視香港台</display-name></channel>
 <channel id="100486"><display-name lang="zh">珠江頻道</display-name></channel>
 <channel id="100487"><display-name lang="zh"> FOX</display-name></channel>
@@ -554,6 +555,121 @@
 <channel id="100576"><display-name lang="zh">Zing </display-name></channel>
 <channel id="100577"><display-name lang="zh">歡樂台 </display-name></channel>
 <channel id="100578"><display-name lang="zh">惹火台 </display-name></channel>
+<channel id="4gtv-4gtv003"><display-name lang="zh">民視第一台</display-name></channel>
+<channel id="4gtv-4gtv001"><display-name lang="zh">民視台灣台</display-name></channel>
+<channel id="4gtv-4gtv002"><display-name lang="zh">民視</display-name></channel>
+<channel id="4gtv-4gtv007"><display-name lang="zh">大愛電視</display-name></channel>
+<channel id="4gtv-4gtv040"><display-name lang="zh">中視</display-name></channel>
+<channel id="4gtv-4gtv080"><display-name lang="zh">中視經典台</display-name></channel>
+<channel id="4gtv-4gtv041"><display-name lang="zh">華視</display-name></channel>
+<channel id="4gtv-live207"><display-name lang="zh">三立綜合台</display-name></channel>
+<channel id="4gtv-4gtv043"><display-name lang="zh">客家電視台</display-name></channel>
+<channel id="4gtv-4gtv039"><display-name lang="zh">八大綜藝台</display-name></channel>
+<channel id="4gtv-4gtv064"><display-name lang="zh">中視菁采台</display-name></channel>
+<channel id="4gtv-4gtv086"><display-name lang="zh">TVBS精采台</display-name></channel>
+<channel id="4gtv-4gtv070"><display-name lang="zh">愛爾達娛樂台</display-name></channel>
+<channel id="4gtv-4gtv046"><display-name lang="zh">靖天綜合台</display-name></channel>
+<channel id="4gtv-4gtv047"><display-name lang="zh">靖天日本台</display-name></channel>
+<channel id="4gtv-4gtv050"><display-name lang="zh">新唐人亞太台</display-name></channel>
+<channel id="4gtv-4gtv033"><display-name lang="zh">中天綜合台</display-name></channel>
+<channel id="4gtv-4gtv079"><display-name lang="zh">ARIRANG阿里郎頻道</display-name></channel>
+<channel id="4gtv-live030"><display-name lang="zh">LiveABC互動英語頻道</display-name></channel>
+<channel id="4gtv-4gtv018"><display-name lang="zh">達文西頻道</display-name></channel>
+<channel id="litv-longturn20"><display-name lang="zh">ELTV生活英語台</display-name></channel>
+<channel id="4gtv-4gtv032"><display-name lang="zh">Nick Jr. 兒童頻道</display-name></channel>
+<channel id="4gtv-live105"><display-name lang="zh">尼克兒童頻道</display-name></channel>
+<channel id="4gtv-4gtv044"><display-name lang="zh">靖天卡通台</display-name></channel>
+<channel id="4gtv-4gtv057"><display-name lang="zh">靖洋卡通Nice Bingo</display-name></channel>
+<channel id="litv-ftv15"><display-name lang="zh">i-Fun動漫台</display-name></channel>
+<channel id="litv-ftv11"><display-name lang="zh">i-Fun動漫台2</display-name></channel>
+<channel id="litv-ftv12"><display-name lang="zh">i-Fun動漫台3</display-name></channel>
+<channel id="4gtv-4gtv107"><display-name lang="zh">MOMO親子台</display-name></channel>
+<channel id="4gtv-live205"><display-name lang="zh">CN卡通</display-name></channel>
+<channel id="4gtv-live047"><display-name lang="zh">東森購物一台</display-name></channel>
+<channel id="litv-ftv14"><display-name lang="zh">東森新聞台</display-name></channel>
+<channel id="4gtv-4gtv052"><display-name lang="zh">華視新聞</display-name></channel>
+<channel id="litv-ftv13"><display-name lang="zh">民視新聞台</display-name></channel>
+<channel id="4gtv-4gtv089"><display-name lang="zh">三立財經新聞iNEWS</display-name></channel>
+<channel id="4gtv-live072"><display-name lang="zh">TVBS新聞</display-name></channel>
+<channel id="4gtv-4gtv019"><display-name lang="zh">東森財經新聞台</display-name></channel>
+<channel id="4gtv-4gtv074"><display-name lang="zh">中視新聞</display-name></channel>
+<channel id="4gtv-4gtv009"><display-name lang="zh">中天新聞台</display-name></channel>
+<channel id="litv-longturn14"><display-name lang="zh">寰宇新聞台</display-name></channel>
+<channel id="4gtv-4gtv060"><display-name lang="zh">SBN全球財經台</display-name></channel>
+<channel id="4gtv-4gtv073"><display-name lang="zh">TVBS</display-name></channel>
+<channel id="4gtv-live046"><display-name lang="zh">東森購物二台</display-name></channel>
+<channel id="4gtv-4gtv004"><display-name lang="zh">民視綜藝台</display-name></channel>
+<channel id="4gtv-4gtv006"><display-name lang="zh">豬哥亮歌廳秀</display-name></channel>
+<channel id="4gtv-4gtv062"><display-name lang="zh">靖天育樂台</display-name></channel>
+<channel id="4gtv-4gtv063"><display-name lang="zh">KLT-靖天國際台</display-name></channel>
+<channel id="4gtv-4gtv054"><display-name lang="zh">Nice TV 靖天歡樂台</display-name></channel>
+<channel id="4gtv-4gtv065"><display-name lang="zh">靖天資訊台</display-name></channel>
+<channel id="4gtv-4gtv068"><display-name lang="zh">TVBS歡樂台</display-name></channel>
+<channel id="4gtv-4gtv016"><display-name lang="zh">韓國娛樂台 KMTV</display-name></channel>
+<channel id="4gtv-4gtv029"><display-name lang="zh">Lifetime 娛樂頻道</display-name></channel>
+<channel id="4gtv-4gtv031"><display-name lang="zh">電影原聲台CMusic</display-name></channel>
+<channel id="4gtv-4gtv082"><display-name lang="zh">TRACE Urban</display-name></channel>
+<channel id="4gtv-4gtv025"><display-name lang="zh">MTV Live HD 音樂頻道</display-name></channel>
+<channel id="4gtv-4gtv083"><display-name lang="zh">Mezzo Live HD</display-name></channel>
+<channel id="4gtv-4gtv059"><display-name lang="zh">CLASSICA 古典樂</display-name></channel>
+<channel id="litv-longturn05"><display-name lang="zh">博斯高球台</display-name></channel>
+<channel id="litv-longturn07"><display-name lang="zh">博斯運動一台</display-name></channel>
+<channel id="litv-longturn10"><display-name lang="zh">博斯無限台</display-name></channel>
+<channel id="litv-longturn09"><display-name lang="zh">博斯網球台</display-name></channel>
+<channel id="4gtv-4gtv077"><display-name lang="zh">TRACE Sport Stars</display-name></channel>
+<channel id="4gtv-4gtv101"><display-name lang="zh">智林體育台</display-name></channel>
+<channel id="4gtv-4gtv014"><display-name lang="zh">時尚運動X</display-name></channel>
+<channel id="4gtv-live201"><display-name lang="zh">車迷TV</display-name></channel>
+<channel id="4gtv-4gtv053"><display-name lang="zh">GINX Esports TV</display-name></channel>
+<channel id="4gtv-live109"><display-name lang="zh">TechStorm</display-name></channel>
+<channel id="4gtv-live110"><display-name lang="zh">Pet Club TV</display-name></channel>
+<channel id="litv-ftv07"><display-name lang="zh">民視旅遊台</display-name></channel>
+<channel id="litv-longturn19"><display-name lang="zh">Fashion One</display-name></channel>
+<channel id="4gtv-live206"><display-name lang="zh">幸福空間居家台</display-name></channel>
+<channel id="4gtv-live208"><display-name lang="zh">Love Nature</display-name></channel>
+<channel id="4gtv-4gtv026"><display-name lang="zh">History 歷史頻道</display-name></channel>
+<channel id="4gtv-4gtv028"><display-name lang="zh">HISTORY 2 頻道</display-name></channel>
+<channel id="4gtv-4gtv088"><display-name lang="zh">Smithsonian Channel</display-name></channel>
+<channel id="4gtv-live121"><display-name lang="zh">LUXE TV Channel</display-name></channel>
+<channel id="4gtv-live122"><display-name lang="zh">TV5MONDE STYLE HD 生活時尚</display-name></channel>
+<channel id="4gtv-4gtv042"><display-name lang="zh">公視戲劇</display-name></channel>
+<channel id="litv-ftv09"><display-name lang="zh">民視影劇台</display-name></channel>
+<channel id="litv-longturn18"><display-name lang="zh">龍華戲劇台</display-name></channel>
+<channel id="4gtv-live620"><display-name lang="zh">HITS頻道</display-name></channel>
+<channel id="litv-longturn11"><display-name lang="zh">龍華日韓台</display-name></channel>
+<channel id="4gtv-4gtv034"><display-name lang="zh">八大精彩台</display-name></channel>
+<channel id="4gtv-4gtv058"><display-name lang="zh">靖天戲劇台</display-name></channel>
+<channel id="4gtv-4gtv045"><display-name lang="zh">靖洋戲劇台</display-name></channel>
+<channel id="4gtv-4gtv027"><display-name lang="zh">CI 罪案偵查頻道</display-name></channel>
+<channel id="4gtv-4gtv013"><display-name lang="zh">視納華仁紀實頻道</display-name></channel>
+<channel id="4gtv-4gtv105"><display-name lang="zh">影迷數位紀實台</display-name></channel>
+<channel id="4gtv-4gtv144"><display-name lang="zh">金光布袋戲</display-name></channel>
+<channel id="4gtv-live138"><display-name lang="zh">BLUE ANT EXTREME</display-name></channel>
+<channel id="4gtv-4gtv049"><display-name lang="zh">采昌影劇台</display-name></channel>
+<channel id="4gtv-4gtv055"><display-name lang="zh">靖天映畫</display-name></channel>
+<channel id="4gtv-4gtv061"><display-name lang="zh">靖天電影台</display-name></channel>
+<channel id="litv-longturn03"><display-name lang="zh">龍華電影台</display-name></channel>
+<channel id="4gtv-4gtv011"><display-name lang="zh">影迷數位電影台</display-name></channel>
+<channel id="4gtv-4gtv017"><display-name lang="zh">amc最愛電影</display-name></channel>
+<channel id="4gtv-4gtv069"><display-name lang="zh">CinemaWorld</display-name></channel>
+<channel id="4gtv-live155"><display-name lang="zh">CATCHPLAY Beyond</display-name></channel>
+<channel id="4gtv-4gtv076"><display-name lang="zh">CATCHPLAY電影台</display-name></channel>
+<channel id="4gtv-live157"><display-name lang="zh">My Cinema Europe HD 我的歐洲電影</display-name></channel>
+<channel id="litv-ftv17"><display-name lang="zh">好消息2台</display-name></channel>
+<channel id="litv-ftv16"><display-name lang="zh">好消息</display-name></channel>
+<channel id="4gtv-4gtv106"><display-name lang="zh">大愛二台</display-name></channel>
+<channel id="4gtv-4gtv008"><display-name lang="zh">人間衛視</display-name></channel>
+<channel id="litv-ftv10"><display-name lang="zh">半島國際新聞台</display-name></channel>
+<channel id="litv-ftv03"><display-name lang="zh">VOA美國之音</display-name></channel>
+<channel id="4gtv-4gtv030"><display-name lang="zh">CNBC Asia 財經台</display-name></channel>
+<channel id="4gtv-4gtv071"><display-name lang="zh">DW德國之聲</display-name></channel>
+<channel id="4gtv-live203"><display-name lang="zh">CNN頭條新聞台</display-name></channel>
+<channel id="4gtv-live204"><display-name lang="zh">CNN國際新聞台</display-name></channel>
+<channel id="4gtv-4gtv084"><display-name lang="zh">國會頻道1</display-name></channel>
+<channel id="4gtv-4gtv085"><display-name lang="zh">國會頻道2</display-name></channel>
+<channel id="4gtv-live021"><display-name lang="zh">經典電影台</display-name></channel>
+<channel id="4gtv-live022"><display-name lang="zh">經典卡通台</display-name></channel>
+<channel id="4gtv-live024"><display-name lang="zh">精選動漫台</display-name></channel>
 <channel id="100580"><display-name lang="zh">viu6</display-name></channel>
 <channel id="100581"><display-name lang="zh">viu</display-name></channel>
 <channel id="100582"><display-name lang="zh">now 劇集</display-name></channel>
@@ -565,53 +681,56 @@
 <channel id="100588"><display-name lang="zh">爆谷台</display-name></channel>
 <channel id="100589"><display-name lang="zh">東森亞洲</display-name></channel>
 <channel id="100590"><display-name lang="zh">tvbs</display-name></channel>
-<channel id="100591"><display-name lang="zh">moov </display-name></channel>
-<channel id="100592"><display-name lang="zh">now直播 </display-name></channel>
-<channel id="100593"><display-name lang="zh">now新聞 </display-name></channel>
-<channel id="100594"><display-name lang="zh">now財經 </display-name></channel>
-<channel id="100595"><display-name lang="zh">now報價 </display-name></channel>
-<channel id="100596"><display-name lang="zh">第一財經 </display-name></channel>
-<channel id="100597"><display-name lang="zh">鳳凰資訊 </display-name></channel>
-<channel id="100598"><display-name lang="zh">鳳凰中文 </display-name></channel>
-<channel id="100599"><display-name lang="zh">香港衛視 </display-name></channel>
-<channel id="100600"><display-name lang="zh">東森亞洲新聞 </display-name></channel>
-<channel id="100601"><display-name lang="zh">中天亞洲台 </display-name></channel>
-<channel id="100602"><display-name lang="zh">now體育 </display-name></channel>
-<channel id="100603"><display-name lang="zh">now體育4k </display-name></channel>
-<channel id="100604"><display-name lang="zh">now體育4k </display-name></channel>
-<channel id="100605"><display-name lang="zh">now體育4k </display-name></channel>
-<channel id="100606"><display-name lang="zh">now體育 </display-name></channel>
-<channel id="100607"><display-name lang="zh">now體育 </display-name></channel>
-<channel id="100608"><display-name lang="zh">Now Sports Premier League TV </display-name></channel>
-<channel id="100609"><display-name lang="zh">Now Sports Premier League TV1 </display-name></channel>
-<channel id="100610"><display-name lang="zh">Now Sports Premier League TV2 </display-name></channel>
-<channel id="100611"><display-name lang="zh">Now Sports Premier League TV3 </display-name></channel>
-<channel id="100612"><display-name lang="zh">Now Sports Premier League TV4 </display-name></channel>
-<channel id="100613"><display-name lang="zh">Now Sports Premier League TV5 </display-name></channel>
-<channel id="100614"><display-name lang="zh">Now Sports Premier League TV6 </display-name></channel>
-<channel id="100615"><display-name lang="zh">Now Sports Premier  </display-name></channel>
-<channel id="100616"><display-name lang="zh">Now Sports 1 </display-name></channel>
-<channel id="100617"><display-name lang="zh">Now Sports 2 </display-name></channel>
-<channel id="100618"><display-name lang="zh">Now Sports 3 </display-name></channel>
-<channel id="100619"><display-name lang="zh">Now Sports 4 </display-name></channel>
-<channel id="100620"><display-name lang="zh">Now Sports 5 </display-name></channel>
-<channel id="100621"><display-name lang="zh">Now Sports 6 </display-name></channel>
-<channel id="100622"><display-name lang="zh">Now Sports 7 </display-name></channel>
-<channel id="100623"><display-name lang="zh">Now Sports 650 </display-name></channel>
-<channel id="100624"><display-name lang="zh">Now Sports 651 </display-name></channel>
-<channel id="100625"><display-name lang="zh">Now Sports 668 </display-name></channel>
-<channel id="100626"><display-name lang="zh">Now Sports plus </display-name></channel>
-<channel id="100627"><display-name lang="zh">Now Sports 681 </display-name></channel>
-<channel id="100628"><display-name lang="zh">Now 高爾夫2 </display-name></channel>
-<channel id="100629"><display-name lang="zh">Now 高爾夫3 </display-name></channel>
-<channel id="100630"><display-name lang="zh">china v </display-name></channel>
-<channel id="100631"><display-name lang="zh">澳亞衛視 </display-name></channel>
+<channel id="100591"><display-name lang="zh">moov</display-name></channel>
+<channel id="100592"><display-name lang="zh">now直播</display-name></channel>
+<channel id="100593"><display-name lang="zh">now新聞</display-name></channel>
+<channel id="100594"><display-name lang="zh">now財經</display-name></channel>
+<channel id="100595"><display-name lang="zh">now報價</display-name></channel>
+<channel id="100596"><display-name lang="zh">第一財經</display-name></channel>
+<channel id="100597"><display-name lang="zh">鳳凰資訊</display-name></channel>
+<channel id="100598"><display-name lang="zh">鳳凰香港</display-name></channel>
+<channel id="100599"><display-name lang="zh">香港衛視</display-name></channel>
+<channel id="100600"><display-name lang="zh">中央電視台綜合頻道</display-name></channel>
+<channel id="100601"><display-name lang="zh">中天亞洲台</display-name></channel>
+<channel id="100602"><display-name lang="zh">now體育</display-name></channel>
+<channel id="100603"><display-name lang="zh">now體育4k</display-name></channel>
+<channel id="100604"><display-name lang="zh">now體育4k</display-name></channel>
+<channel id="100605"><display-name lang="zh">now體育4k</display-name></channel>
+<channel id="100606"><display-name lang="zh">now體育</display-name></channel>
+<channel id="100607"><display-name lang="zh">now體育</display-name></channel>
+<channel id="100608"><display-name lang="zh">Now Sports Premier League TV</display-name></channel>
+<channel id="100609"><display-name lang="zh">Now Sports Premier League TV1</display-name></channel>
+<channel id="100610"><display-name lang="zh">Now Sports Premier League TV2</display-name></channel>
+<channel id="100611"><display-name lang="zh">Now Sports Premier League TV3</display-name></channel>
+<channel id="100612"><display-name lang="zh">Now Sports Premier League TV4</display-name></channel>
+<channel id="100613"><display-name lang="zh">Now Sports Premier League TV5</display-name></channel>
+<channel id="100614"><display-name lang="zh">Now Sports Premier League TV6</display-name></channel>
+<channel id="100615"><display-name lang="zh">Now Sports Premier</display-name></channel>
+<channel id="100616"><display-name lang="zh">Now Sports 1</display-name></channel>
+<channel id="100617"><display-name lang="zh">Now Sports 2</display-name></channel>
+<channel id="100618"><display-name lang="zh">Now Sports 3</display-name></channel>
+<channel id="100619"><display-name lang="zh">Now Sports 4</display-name></channel>
+<channel id="100620"><display-name lang="zh">Now Sports 5</display-name></channel>
+<channel id="100621"><display-name lang="zh">Now Sports 6</display-name></channel>
+<channel id="100622"><display-name lang="zh">Now Sports 7</display-name></channel>
+<channel id="100623"><display-name lang="zh">Now Sports 650</display-name></channel>
+<channel id="100624"><display-name lang="zh">Now Sports 651</display-name></channel>
+<channel id="100625"><display-name lang="zh">Now Sports 668</display-name></channel>
+<channel id="100626"><display-name lang="zh">Now Sports plus</display-name></channel>
+<channel id="100627"><display-name lang="zh">Now Sports 681</display-name></channel>
+<channel id="100628"><display-name lang="zh">Now 高爾夫2</display-name></channel>
+<channel id="100629"><display-name lang="zh">Now 高爾夫3</display-name></channel>
+<channel id="100630"><display-name lang="zh">鳳凰中文</display-name></channel>
+<channel id="100631"><display-name lang="zh">澳亞衛視</display-name></channel>
 <channel id="100632"><display-name lang="zh">香港電台31</display-name></channel>
 <channel id="100633"><display-name lang="zh">香港電台32</display-name></channel>
 <channel id="100634"><display-name lang="zh">TVB星河</display-name></channel>
 <channel id="100635"><display-name lang="zh">看看新聞直播</display-name></channel>
 <channel id="100636"><display-name lang="zh">第一財經直播</display-name></channel>
 <channel id="100637"><display-name lang="zh">奥林匹克官网直播</display-name></channel>
+
+
+
 <channel id="100638"><display-name lang="zh">湖南都市</display-name></channel>
 <channel id="100639"><display-name lang="zh">湖南经视</display-name></channel>
 <channel id="100640"><display-name lang="zh">CCTV-4欧洲</display-name></channel>
@@ -834,3 +953,742 @@
 <channel id="100859"><display-name lang="zh">南宁新闻</display-name></channel>
 <channel id="100860"><display-name lang="zh">厦门3</display-name></channel>
 <channel id="100861"><display-name lang="zh">厦门4</display-name></channel>
+
+
+<channel id="100910"><display-name lang="zh">广东卫视</display-name></channel>
+<channel id="100911"><display-name lang="zh">广东珠江</display-name></channel>
+<channel id="100912"><display-name lang="zh">广东新闻</display-name></channel>
+<channel id="100913"><display-name lang="zh">广东公共</display-name></channel>
+<channel id="100914"><display-name lang="zh">广东南方卫视地面</display-name></channel>
+<channel id="100915"><display-name lang="zh">广东南方卫视卫星</display-name></channel>
+<channel id="100916"><display-name lang="zh">广东经济科教</display-name></channel>
+<channel id="100917"><display-name lang="zh">广东影视</display-name></channel>
+<channel id="100918"><display-name lang="zh">广东综艺</display-name></channel>
+<channel id="100919"><display-name lang="zh">广东珠江境外</display-name></channel>
+<channel id="100920"><display-name lang="zh">广东少儿</display-name></channel>
+<channel id="100921"><display-name lang="zh">广东家和卡通</display-name></channel>
+<channel id="100922"><display-name lang="zh">广东现代教育</display-name></channel>
+<channel id="100923"><display-name lang="zh">广东移动</display-name></channel>
+<channel id="100924"><display-name lang="zh">江苏卫视</display-name></channel>
+<channel id="100925"><display-name lang="zh">江苏公共</display-name></channel>
+<channel id="100926"><display-name lang="zh">江苏城市</display-name></channel>
+<channel id="100927"><display-name lang="zh">江苏靓装</display-name></channel>
+<channel id="100928"><display-name lang="zh">江苏体育</display-name></channel>
+<channel id="100929"><display-name lang="zh">江苏影视</display-name></channel>
+<channel id="100930"><display-name lang="zh">江苏综艺</display-name></channel>
+<channel id="100931"><display-name lang="zh">江苏优漫卡通</display-name></channel>
+<channel id="100932"><display-name lang="zh">江苏好享购物</display-name></channel>
+<channel id="100933"><display-name lang="zh">江苏国际</display-name></channel>
+<channel id="100934"><display-name lang="zh">江苏教育</display-name></channel>
+<channel id="100935"><display-name lang="zh">江苏学习</display-name></channel>
+<channel id="100936"><display-name lang="zh">河南卫视</display-name></channel>
+<channel id="100937"><display-name lang="zh">河南都市</display-name></channel>
+<channel id="100938"><display-name lang="zh">河南民生</display-name></channel>
+<channel id="100939"><display-name lang="zh">河南法制</display-name></channel>
+<channel id="100940"><display-name lang="zh">河南电视剧</display-name></channel>
+<channel id="100941"><display-name lang="zh">河南新闻</display-name></channel>
+<channel id="100942"><display-name lang="zh">河南欢腾购物</display-name></channel>
+<channel id="100943"><display-name lang="zh">河南公共</display-name></channel>
+<channel id="100944"><display-name lang="zh">河南乡村</display-name></channel>
+<channel id="100945"><display-name lang="zh">河南国际</display-name></channel>
+<channel id="100946"><display-name lang="zh">河南梨园戏曲</display-name></channel>
+<channel id="100947"><display-name lang="zh">河南文物宝库</display-name></channel>
+<channel id="100948"><display-name lang="zh">河南武术</display-name></channel>
+<channel id="100949"><display-name lang="zh">河南晴彩中原</display-name></channel>
+<channel id="100950"><display-name lang="zh">河南移动戏曲</display-name></channel>
+<channel id="100951"><display-name lang="zh">河南象世界</display-name></channel>
+<channel id="100952"><display-name lang="zh">陝西卫视</display-name></channel>
+<channel id="100953"><display-name lang="zh">陝西新闻</display-name></channel>
+<channel id="100954"><display-name lang="zh">陝西都市青春</display-name></channel>
+<channel id="100955"><display-name lang="zh">陝西生活</display-name></channel>
+<channel id="100956"><display-name lang="zh">陝西影视</display-name></channel>
+<channel id="100957"><display-name lang="zh">陝西公共</display-name></channel>
+<channel id="100958"><display-name lang="zh">陝西乐家购物</display-name></channel>
+<channel id="100959"><display-name lang="zh">陝西体育</display-name></channel>
+<channel id="100960"><display-name lang="zh">陝西农林</display-name></channel>
+
+
+
+
+
+
+
+
+<channel id="200001"><display-name lang="zh">AstroPrima</display-name></channel>
+<channel id="200002"><display-name lang="zh">ERAFM</display-name></channel>
+<channel id="200003"><display-name lang="zh">MYFM</display-name></channel>
+<channel id="200004"><display-name lang="zh">OPUS</display-name></channel>
+<channel id="200005"><display-name lang="zh">HITZFM</display-name></channel>
+<channel id="200006"><display-name lang="zh">MIXFM</display-name></channel>
+<channel id="200007"><display-name lang="zh">LITEFM</display-name></channel>
+<channel id="200008"><display-name lang="zh">CLASSICROCK</display-name></channel>
+<channel id="200009"><display-name lang="zh">GOLD</display-name></channel>
+<channel id="200010"><display-name lang="zh">THRGEGAR</display-name></channel>
+<channel id="200011"><display-name lang="zh">INDIABEAT</display-name></channel>
+<channel id="200012"><display-name lang="zh">JAZZ</display-name></channel>
+<channel id="200013"><display-name lang="zh">NASFM</display-name></channel>
+<channel id="200014"><display-name lang="zh">SINARFM</display-name></channel>
+<channel id="200015"><display-name lang="zh">OSAI</display-name></channel>
+<channel id="200016"><display-name lang="zh">MELODYFM</display-name></channel>
+<channel id="200017"><display-name lang="zh">VFM</display-name></channel>
+<channel id="200018"><display-name lang="zh">THRRAAGA</display-name></channel>
+<channel id="200019"><display-name lang="zh">BAYU</display-name></channel>
+<channel id="200020"><display-name lang="zh">KENYALANG</display-name></channel>
+<channel id="200021"><display-name lang="zh">ArabicRadio&TVVariety</display-name></channel>
+<channel id="200022"><display-name lang="zh">PhoenixInfoNewsHD</display-name></channel>
+<channel id="200023"><display-name lang="zh">MakkalTV</display-name></channel>
+<channel id="200024"><display-name lang="zh">TV9</display-name></channel>
+<channel id="200025"><display-name lang="zh">ChuttiTV</display-name></channel>
+<channel id="200026"><display-name lang="zh">ABCAustralia</display-name></channel>
+<channel id="200027"><display-name lang="zh">AstroTutorTVUPSR</display-name></channel>
+<channel id="200028"><display-name lang="zh">AstroVellithirai</display-name></channel>
+<channel id="200029"><display-name lang="zh">AstroOnDemand354</display-name></channel>
+<channel id="200030"><display-name lang="zh">AstroOnDemand355</display-name></channel>
+<channel id="200031"><display-name lang="zh">Adithya</display-name></channel>
+<channel id="200032"><display-name lang="zh">AstroOasis</display-name></channel>
+<channel id="200033"><display-name lang="zh">AstroOnDemand352</display-name></channel>
+<channel id="200034"><display-name lang="zh">AsianFoodNetworkHD</display-name></channel>
+<channel id="200035"><display-name lang="zh">NTV7</display-name></channel>
+<channel id="200036"><display-name lang="zh">BabyTV</display-name></channel>
+<channel id="200037"><display-name lang="zh">TVOkey</display-name></channel>
+<channel id="200038"><display-name lang="zh">TV3</display-name></channel>
+<channel id="200039"><display-name lang="zh">AstroOnDemand353</display-name></channel>
+<channel id="200040"><display-name lang="zh">8TV</display-name></channel>
+<channel id="200041"><display-name lang="zh">AstroTVIQ</display-name></channel>
+<channel id="200042"><display-name lang="zh">AstroTutorTVPT3</display-name></channel>
+<channel id="200043"><display-name lang="zh">AstroTutorTVSPM</display-name></channel>
+<channel id="200044"><display-name lang="zh">AXNHD</display-name></channel>
+<channel id="200045"><display-name lang="zh">FXHD</display-name></channel>
+<channel id="200046"><display-name lang="zh">ONEHD</display-name></channel>
+<channel id="200047"><display-name lang="zh">CelestialMoviesHD</display-name></channel>
+<channel id="200048"><display-name lang="zh">DiscoveryAsiaHD</display-name></channel>
+<channel id="200049"><display-name lang="zh">FOXlifeHD</display-name></channel>
+<channel id="200050"><display-name lang="zh">AstroSuperSport2HD</display-name></channel>
+<channel id="200051"><display-name lang="zh">NationalGeographicHD</display-name></channel>
+<channel id="200052"><display-name lang="zh">FOXSportsHD</display-name></channel>
+<channel id="200053"><display-name lang="zh">HBOHD</display-name></channel>
+<channel id="200054"><display-name lang="zh">HistoryHD</display-name></channel>
+<channel id="200055"><display-name lang="zh">WAIFM</display-name></channel>
+<channel id="200056"><display-name lang="zh">Al-Hijrah</display-name></channel>
+<channel id="200057"><display-name lang="zh">FOXMoviesHD</display-name></channel>
+<channel id="200058"><display-name lang="zh">FoodNetworkHD</display-name></channel>
+<channel id="200059"><display-name lang="zh">AstroSuperSportHD</display-name></channel>
+<channel id="200060"><display-name lang="zh">SkyNewsHD</display-name></channel>
+<channel id="200061"><display-name lang="zh">KIXHD</display-name></channel>
+<channel id="200062"><display-name lang="zh">AstroQuanJiaHD</display-name></channel>
+<channel id="200063"><display-name lang="zh">BERNAMA</display-name></channel>
+<channel id="200064"><display-name lang="zh">KBSWorldHD</display-name></channel>
+<channel id="200065"><display-name lang="zh">AstroHuaHeeDaiHD</display-name></channel>
+<channel id="200066"><display-name lang="zh">AstroSuperSport3HD</display-name></channel>
+<channel id="200067"><display-name lang="zh">AstroVinmeenHD</display-name></channel>
+<channel id="200068"><display-name lang="zh">FOXFamilyMoviesHD</display-name></channel>
+<channel id="200069"><display-name lang="zh">AstroOnDemandHD311</display-name></channel>
+<channel id="200070"><display-name lang="zh">ABOMoviesThangathiraiHD</display-name></channel>
+<channel id="200071"><display-name lang="zh">BollyOneHD</display-name></channel>
+<channel id="200072"><display-name lang="zh">HITSHD</display-name></channel>
+<channel id="200073"><display-name lang="zh">FOXHD</display-name></channel>
+<channel id="200074"><display-name lang="zh">AstroAECHD</display-name></channel>
+<channel id="200075"><display-name lang="zh">AstroShuangXingHD</display-name></channel>
+<channel id="200076"><display-name lang="zh">FOXActionMoviesHD</display-name></channel>
+<channel id="200077"><display-name lang="zh">CelestialClassicMovies</display-name></channel>
+<channel id="200078"><display-name lang="zh">GolfChannelHD</display-name></channel>
+<channel id="200079"><display-name lang="zh">tvNHD</display-name></channel>
+<channel id="200080"><display-name lang="zh">Oh!KHD</display-name></channel>
+<channel id="200081"><display-name lang="zh">GoShop118</display-name></channel>
+<channel id="200082"><display-name lang="zh">AstroRiaHD</display-name></channel>
+<channel id="200083"><display-name lang="zh">WWENetworkHD</display-name></channel>
+<channel id="200084"><display-name lang="zh">AstroCricketHD</display-name></channel>
+<channel id="200085"><display-name lang="zh">HGTVHD</display-name></channel>
+<channel id="200086"><display-name lang="zh">NatGeoPeopleHD</display-name></channel>
+<channel id="200087"><display-name lang="zh">AstroGoShop303</display-name></channel>
+<channel id="200088"><display-name lang="zh">TVBJade</display-name></channel>
+<channel id="200089"><display-name lang="zh">eGGNetworkHD</display-name></channel>
+<channel id="200090"><display-name lang="zh">AstroArenaHD</display-name></channel>
+<channel id="200091"><display-name lang="zh">beINSportsHD</display-name></channel>
+<channel id="200092"><display-name lang="zh">AstroSuperSport4HD</display-name></channel>
+<channel id="200093"><display-name lang="zh">BOOHD</display-name></channel>
+<channel id="200094"><display-name lang="zh">K-Plus</display-name></channel>
+<channel id="200095"><display-name lang="zh">WarnerTVHD</display-name></channel>
+<channel id="200096"><display-name lang="zh">AstroWarnaHD</display-name></channel>
+<channel id="200097"><display-name lang="zh">tvNMoviesHD</display-name></channel>
+<channel id="200098"><display-name lang="zh">DWEnglish</display-name></channel>
+<channel id="200099"><display-name lang="zh">France24</display-name></channel>
+<channel id="200100"><display-name lang="zh">FOXSports2HD</display-name></channel>
+<channel id="200101"><display-name lang="zh">FOXSports3HD</display-name></channel>
+<channel id="200102"><display-name lang="zh">ZAYAN</display-name></channel>
+<channel id="200103"><display-name lang="zh">GOXUAN</display-name></channel>
+<channel id="200104"><display-name lang="zh">GoShopGAAYA</display-name></channel>
+<channel id="200105"><display-name lang="zh">CNAHD</display-name></channel>
+<channel id="200106"><display-name lang="zh">HelloHD</display-name></channel>
+<channel id="200107"><display-name lang="zh">ZeeTamilHD</display-name></channel>
+<channel id="200108"><display-name lang="zh">ColorsTamilHD</display-name></channel>
+<channel id="200109"><display-name lang="zh">NauraHD</display-name></channel>
+<channel id="200110"><display-name lang="zh">AstroCitraHD</display-name></channel>
+<channel id="200111"><display-name lang="zh">NJOITV</display-name></channel>
+<channel id="200112"><display-name lang="zh">AIFM</display-name></channel>
+<channel id="200113"><display-name lang="zh">RadioARENA</display-name></channel>
+<channel id="200114"><display-name lang="zh">AstroUHD</display-name></channel>
+<channel id="200115"><display-name lang="zh">ASYIKFM</display-name></channel>
+<channel id="200116"><display-name lang="zh">MINNALFM</display-name></channel>
+<channel id="200117"><display-name lang="zh">TRAXXFM</display-name></channel>
+<channel id="200118"><display-name lang="zh">beINSportsMAXHD</display-name></channel>
+<channel id="200119"><display-name lang="zh">AstroOasisHD</display-name></channel>
+<channel id="200120"><display-name lang="zh">AstroPrimaHD</display-name></channel>
+<channel id="200121"><display-name lang="zh">NatGeoWildHD</display-name></channel>
+<channel id="200122"><display-name lang="zh">CNNHD</display-name></channel>
+<channel id="200123"><display-name lang="zh">CINEMAXHD</display-name></channel>
+<channel id="200124"><display-name lang="zh">TLCHD</display-name></channel>
+<channel id="200125"><display-name lang="zh">EurosportHD</display-name></channel>
+<channel id="200126"><display-name lang="zh">iQIYIHD</display-name></channel>
+<channel id="200127"><display-name lang="zh">StarVijayHD</display-name></channel>
+<channel id="200128"><display-name lang="zh">SUNTVHD</display-name></channel>
+<channel id="200129"><display-name lang="zh">ColorsHindiHD</display-name></channel>
+<channel id="200130"><display-name lang="zh">BBCWorldNewsHD</display-name></channel>
+<channel id="200131"><display-name lang="zh">DMAXHD</display-name></channel>
+<channel id="200132"><display-name lang="zh">Crime&InvestigationHD</display-name></channel>
+<channel id="200133"><display-name lang="zh">NickelodeonHD</display-name></channel>
+<channel id="200134"><display-name lang="zh">CartoonNetworkHD</display-name></channel>
+<channel id="200135"><display-name lang="zh">AlJazeeraEnglishHD</display-name></channel>
+<channel id="200136"><display-name lang="zh">DiscoveryScienceHD</display-name></channel>
+<channel id="200137"><display-name lang="zh">DiscoveryChannelHD</display-name></channel>
+<channel id="200138"><display-name lang="zh">AnimalPlanetHD</display-name></channel>
+<channel id="200139"><display-name lang="zh">PhoenixChineseChannelHD</display-name></channel>
+<channel id="200140"><display-name lang="zh">TVBXingHeHD</display-name></channel>
+<channel id="200141"><display-name lang="zh">TVBSAsiaHD</display-name></channel>
+<channel id="200142"><display-name lang="zh">CCTV4HD</display-name></channel>
+<channel id="200143"><display-name lang="zh">AstroCeriaHD</display-name></channel>
+<channel id="200144"><display-name lang="zh">AstroXiaoTaiYangHD</display-name></channel>
+<channel id="200145"><display-name lang="zh">StarChineseChannelHD</display-name></channel>
+<channel id="200146"><display-name lang="zh">HITSMoviesHD</display-name></channel>
+<channel id="200147"><display-name lang="zh">RugbyPassTVHD</display-name></channel>
+<channel id="200148"><display-name lang="zh">AstroAuraHD</display-name></channel>
+<channel id="200149"><display-name lang="zh">AstroRaniaHD</display-name></channel>
+<channel id="200150"><display-name lang="zh">GoShop111</display-name></channel>
+<channel id="200151"><display-name lang="zh">TVBSNews</display-name></channel>
+<channel id="200152"><display-name lang="zh">SunMusicHD</display-name></channel>
+<channel id="200153"><display-name lang="zh">CTIAsiaHD</display-name></channel>
+<channel id="200154"><display-name lang="zh">TVBClassicHD</display-name></channel>
+<channel id="200155"><display-name lang="zh">TVBEntertainmentNewsHD</display-name></channel>
+<channel id="200156"><display-name lang="zh">TVS</display-name></channel>
+<channel id="200157"><display-name lang="zh">AnimaxHD</display-name></channel>
+<channel id="200158"><display-name lang="zh">MTVAsiaHD</display-name></channel>
+<channel id="200159"><display-name lang="zh">NHKWorldHD</display-name></channel>
+<channel id="200160"><display-name lang="zh">BloombergTVHD</display-name></channel>
+<channel id="200161"><display-name lang="zh">NickelodeonJunior</display-name></channel>
+<channel id="200162"><display-name lang="zh">Boomerang</display-name></channel>
+<channel id="200163"><display-name lang="zh">AwesomeTV</display-name></channel>
+<channel id="200164"><display-name lang="zh">TA-DAA!</display-name></channel>
+<channel id="200165"><display-name lang="zh">TV1</display-name></channel>
+<channel id="200166"><display-name lang="zh">AstroVaanavilHD</display-name></channel>
+<channel id="200167"><display-name lang="zh">AstroAwaniHD</display-name></channel>
+<channel id="200168"><display-name lang="zh">CGTNHD</display-name></channel>
+<channel id="200169"><display-name lang="zh">FAMMovies</display-name></channel>
+<channel id="200170"><display-name lang="zh">TV2HD</display-name></channel>
+<channel id="200171"><display-name lang="zh">CNBCAsiaHD</display-name></channel>
+<channel id="200172"><display-name lang="zh">SouthernTelevision</display-name></channel>
+<channel id="200173"><display-name lang="zh">KordiaTV</display-name></channel>
+<channel id="200174"><display-name lang="zh">TEN</display-name></channel>
+<channel id="200175"><display-name lang="zh">ChoiceTV</display-name></channel>
+<channel id="200176"><display-name lang="zh">10Bold</display-name></channel>
+<channel id="200177"><display-name lang="zh">WairarapaTV</display-name></channel>
+<channel id="200178"><display-name lang="zh">BravoPLUS1</display-name></channel>
+<channel id="200179"><display-name lang="zh">SBSFood</display-name></channel>
+<channel id="200180"><display-name lang="zh">NITV</display-name></channel>
+<channel id="200181"><display-name lang="zh">Seven</display-name></channel>
+<channel id="200182"><display-name lang="zh">BREEZETV</display-name></channel>
+<channel id="200183"><display-name lang="zh">CTV8</display-name></channel>
+<channel id="200184"><display-name lang="zh">TeReo</display-name></channel>
+<channel id="200185"><display-name lang="zh">ThreePlus1</display-name></channel>
+<channel id="200186"><display-name lang="zh">RadioNewZealandConcert</display-name></channel>
+<channel id="200187"><display-name lang="zh">Channel9</display-name></channel>
+<channel id="200188"><display-name lang="zh">7flix</display-name></channel>
+<channel id="200189"><display-name lang="zh">PRIME</display-name></channel>
+<channel id="200190"><display-name lang="zh">TVSNShopping</display-name></channel>
+<channel id="200191"><display-name lang="zh">RACING.COM</display-name></channel>
+<channel id="200192"><display-name lang="zh">7TWO</display-name></channel>
+<channel id="200193"><display-name lang="zh">AlJazeera</display-name></channel>
+<channel id="200194"><display-name lang="zh">TABTrackside1</display-name></channel>
+<channel id="200195"><display-name lang="zh">TABTrackside2</display-name></channel>
+<channel id="200196"><display-name lang="zh">10ShakeSydney</display-name></channel>
+<channel id="200197"><display-name lang="zh">TVSNShopping</display-name></channel>
+<channel id="200198"><display-name lang="zh">10Bold</display-name></channel>
+<channel id="200199"><display-name lang="zh">SpreeTV</display-name></channel>
+<channel id="200200"><display-name lang="zh">Channel33</display-name></channel>
+<channel id="200201"><display-name lang="zh">TVNZDUKE+1</display-name></channel>
+<channel id="200202"><display-name lang="zh">Firstlight</display-name></channel>
+<channel id="200203"><display-name lang="zh">SBSVICELANDHD</display-name></channel>
+<channel id="200204"><display-name lang="zh">10Peach</display-name></channel>
+<channel id="200205"><display-name lang="zh">RNZNational</display-name></channel>
+<channel id="200206"><display-name lang="zh">SBS</display-name></channel>
+<channel id="200207"><display-name lang="zh">TVNZ2+1</display-name></channel>
+<channel id="200208"><display-name lang="zh">HGTV</display-name></channel>
+<channel id="200209"><display-name lang="zh">TVNZ1+1</display-name></channel>
+<channel id="200210"><display-name lang="zh">MāoriTelevision</display-name></channel>
+<channel id="200211"><display-name lang="zh">TVNZ2</display-name></channel>
+<channel id="200212"><display-name lang="zh">Three</display-name></channel>
+<channel id="200213"><display-name lang="zh">Bravo</display-name></channel>
+<channel id="200214"><display-name lang="zh">TV29</display-name></channel>
+<channel id="200215"><display-name lang="zh">TheEdgeTV</display-name></channel>
+<channel id="200216"><display-name lang="zh">HopeChannel</display-name></channel>
+<channel id="200217"><display-name lang="zh">SBSWorldMoviesSydney</display-name></channel>
+<channel id="200218"><display-name lang="zh">ShineTV</display-name></channel>
+<channel id="200219"><display-name lang="zh">7mate</display-name></channel>
+<channel id="200220"><display-name lang="zh">DUKE</display-name></channel>
+<channel id="200221"><display-name lang="zh">RedbullTV</display-name></channel>
+<channel id="200222"><display-name lang="zh">TVNZ1</display-name></channel>
+<channel id="200223"><display-name lang="zh">ABCCOMEDY/ABCKidsNSW</display-name></channel>
+<channel id="200224"><display-name lang="zh">ABCNEWS</display-name></channel>
+<channel id="200225"><display-name lang="zh">ABC</display-name></channel>
+<channel id="200226"><display-name lang="zh">9RushSydney</display-name></channel>
+<channel id="200227"><display-name lang="zh">9Go!</display-name></channel>
+<channel id="200228"><display-name lang="zh">ABCME</display-name></channel>
+<channel id="200229"><display-name lang="zh">9Life</display-name></channel>
+<channel id="200230"><display-name lang="zh">9Gem</display-name></channel>
+<channel id="200231"><display-name lang="zh">ParliamentTV</display-name></channel>
+<channel id="200232"><display-name lang="zh">BaseFM</display-name></channel>
+<channel id="200233"><display-name lang="zh">GOLDHD</display-name></channel>
+<channel id="200234"><display-name lang="zh">SkyComedyHD</display-name></channel>
+<channel id="200235"><display-name lang="zh">SkySpNewsHD</display-name></channel>
+<channel id="200236"><display-name lang="zh">SkySpGolfHD</display-name></channel>
+<channel id="200237"><display-name lang="zh">NatGeoWildHD</display-name></channel>
+<channel id="200238"><display-name lang="zh">SkySpActionHD</display-name></channel>
+<channel id="200239"><display-name lang="zh">HarryPotterHD</display-name></channel>
+<channel id="200240"><display-name lang="zh">SkyPremiereHD</display-name></channel>
+<channel id="200241"><display-name lang="zh">RTHD</display-name></channel>
+<channel id="200242"><display-name lang="zh">E!HD</display-name></channel>
+<channel id="200243"><display-name lang="zh">PCNEChinese</display-name></channel>
+<channel id="200244"><display-name lang="zh">AAJTAK</display-name></channel>
+<channel id="200245"><display-name lang="zh">Channel4</display-name></channel>
+<channel id="200246"><display-name lang="zh">ITV+1</display-name></channel>
+<channel id="200247"><display-name lang="zh">HUMMasala</display-name></channel>
+<channel id="200248"><display-name lang="zh">StarPlusHD</display-name></channel>
+<channel id="200249"><display-name lang="zh">BLAZE</display-name></channel>
+<channel id="200250"><display-name lang="zh">ArirangTVHD</display-name></channel>
+<channel id="200251"><display-name lang="zh">ATN</display-name></channel>
+<channel id="200252"><display-name lang="zh">Film4+1</display-name></channel>
+<channel id="200253"><display-name lang="zh">QUESTHD</display-name></channel>
+<channel id="200254"><display-name lang="zh">PrimalLiving</display-name></channel>
+<channel id="200255"><display-name lang="zh">SonyMovies+1</display-name></channel>
+<channel id="200256"><display-name lang="zh">E4</display-name></channel>
+<channel id="200257"><display-name lang="zh">KICCTV</display-name></channel>
+<channel id="200258"><display-name lang="zh">Drama+1</display-name></channel>
+<channel id="200259"><display-name lang="zh">FRANCE24HD</display-name></channel>
+<channel id="200260"><display-name lang="zh">Smithsonian</display-name></channel>
+<channel id="200261"><display-name lang="zh">SkyDocumntrs</display-name></channel>
+<channel id="200262"><display-name lang="zh">BTSport//ESPN</display-name></channel>
+<channel id="200263"><display-name lang="zh">ZeeTV</display-name></channel>
+<channel id="200264"><display-name lang="zh">NHKWorldHD</display-name></channel>
+<channel id="200265"><display-name lang="zh">ForcesTV</display-name></channel>
+<channel id="200266"><display-name lang="zh">BritishMuslim</display-name></channel>
+<channel id="200267"><display-name lang="zh">5SELECT</display-name></channel>
+<channel id="200268"><display-name lang="zh">5USA+1</display-name></channel>
+<channel id="200269"><display-name lang="zh">5STAR+1</display-name></channel>
+<channel id="200270"><display-name lang="zh">5STAR</display-name></channel>
+<channel id="200271"><display-name lang="zh">5USA</display-name></channel>
+<channel id="200272"><display-name lang="zh">SkyPremiere</display-name></channel>
+<channel id="200273"><display-name lang="zh">Cruise1st.tv</display-name></channel>
+<channel id="200274"><display-name lang="zh">CNNHD</display-name></channel>
+<channel id="200275"><display-name lang="zh">SkyOne+1</display-name></channel>
+<channel id="200276"><display-name lang="zh">SkyOne</display-name></channel>
+<channel id="200277"><display-name lang="zh">SkyNews</display-name></channel>
+<channel id="200278"><display-name lang="zh">HighStreetTV1</display-name></channel>
+<channel id="200279"><display-name lang="zh">SkySpAction</display-name></channel>
+<channel id="200280"><display-name lang="zh">Nicktoons</display-name></channel>
+<channel id="200281"><display-name lang="zh">ITV4</display-name></channel>
+<channel id="200282"><display-name lang="zh">ITV4+1</display-name></channel>
+<channel id="200283"><display-name lang="zh">Movies24</display-name></channel>
+<channel id="200284"><display-name lang="zh">Movies24+</display-name></channel>
+<channel id="200285"><display-name lang="zh">NatGeoWild</display-name></channel>
+<channel id="200286"><display-name lang="zh">Nickelodeon</display-name></channel>
+<channel id="200287"><display-name lang="zh">Nickelodeon+1</display-name></channel>
+<channel id="200288"><display-name lang="zh">ITVHD</display-name></channel>
+<channel id="200289"><display-name lang="zh">Create&CraftHD</display-name></channel>
+<channel id="200290"><display-name lang="zh">IdealWorldHD</display-name></channel>
+<channel id="200291"><display-name lang="zh">SYFY+1</display-name></channel>
+<channel id="200292"><display-name lang="zh">W</display-name></channel>
+<channel id="200293"><display-name lang="zh">W+1</display-name></channel>
+<channel id="200294"><display-name lang="zh">YESTERDAY+1</display-name></channel>
+<channel id="200295"><display-name lang="zh">DaveHD</display-name></channel>
+<channel id="200296"><display-name lang="zh">Drama</display-name></channel>
+<channel id="200297"><display-name lang="zh">Thane</display-name></channel>
+<channel id="200298"><display-name lang="zh">ComedyCent+1</display-name></channel>
+<channel id="200299"><display-name lang="zh">BestDirect</display-name></channel>
+<channel id="200300"><display-name lang="zh">QVCBeauty</display-name></channel>
+<channel id="200301"><display-name lang="zh">SmithsonianHD</display-name></channel>
+<channel id="200302"><display-name lang="zh">B4UMusic</display-name></channel>
+<channel id="200303"><display-name lang="zh">HighStreetTV2</display-name></channel>
+<channel id="200304"><display-name lang="zh">S4C</display-name></channel>
+<channel id="200305"><display-name lang="zh">B4UMovies</display-name></channel>
+<channel id="200306"><display-name lang="zh">POPMax+1</display-name></channel>
+<channel id="200307"><display-name lang="zh">Showcase</display-name></channel>
+<channel id="200308"><display-name lang="zh">WordNetwork</display-name></channel>
+<channel id="200309"><display-name lang="zh">Film4</display-name></channel>
+<channel id="200310"><display-name lang="zh">mta-muslimtv</display-name></channel>
+<channel id="200311"><display-name lang="zh">Channel4HD</display-name></channel>
+<channel id="200312"><display-name lang="zh">SYFYHD</display-name></channel>
+<channel id="200313"><display-name lang="zh">CartoonNetHD</display-name></channel>
+<channel id="200314"><display-name lang="zh">E4HD</display-name></channel>
+<channel id="200315"><display-name lang="zh">IQRATV</display-name></channel>
+<channel id="200316"><display-name lang="zh">RacingTV</display-name></channel>
+<channel id="200317"><display-name lang="zh">TVWarehouse</display-name></channel>
+<channel id="200318"><display-name lang="zh">SONYSAB</display-name></channel>
+<channel id="200319"><display-name lang="zh">CBSJustice</display-name></channel>
+<channel id="200320"><display-name lang="zh">SkyAnimationHD</display-name></channel>
+<channel id="200321"><display-name lang="zh">FaithUK</display-name></channel>
+<channel id="200322"><display-name lang="zh">KTV</display-name></channel>
+<channel id="200323"><display-name lang="zh">YANGA!</display-name></channel>
+<channel id="200324"><display-name lang="zh">TLC+1</display-name></channel>
+<channel id="200325"><display-name lang="zh">ID+1</display-name></channel>
+<channel id="200326"><display-name lang="zh">SkyHistory2HD</display-name></channel>
+<channel id="200327"><display-name lang="zh">SkyNature</display-name></channel>
+<channel id="200328"><display-name lang="zh">Channel44</display-name></channel>
+<channel id="200329"><display-name lang="zh">4Music</display-name></channel>
+<channel id="200330"><display-name lang="zh">SkyArts</display-name></channel>
+<channel id="200331"><display-name lang="zh">SkyComedy</display-name></channel>
+<channel id="200332"><display-name lang="zh">ClublandTV</display-name></channel>
+<channel id="200333"><display-name lang="zh">SonyAction</display-name></channel>
+<channel id="200334"><display-name lang="zh">SonyMovies</display-name></channel>
+<channel id="200335"><display-name lang="zh">horrorch+1</display-name></channel>
+<channel id="200336"><display-name lang="zh">AhlulbaytTV</display-name></channel>
+<channel id="200337"><display-name lang="zh">iONTV</display-name></channel>
+<channel id="200338"><display-name lang="zh">CBeebiesHD</display-name></channel>
+<channel id="200339"><display-name lang="zh">BBCOneScotHD</display-name></channel>
+<channel id="200340"><display-name lang="zh">BBCOneWalHD</display-name></channel>
+<channel id="200341"><display-name lang="zh">BBCOneNIHD</display-name></channel>
+<channel id="200342"><display-name lang="zh">BBCFourHD</display-name></channel>
+<channel id="200343"><display-name lang="zh">EmanChannel</display-name></channel>
+<channel id="200344"><display-name lang="zh">BBCNEWSHD</display-name></channel>
+<channel id="200345"><display-name lang="zh">DunamisTV</display-name></channel>
+<channel id="200346"><display-name lang="zh">More4</display-name></channel>
+<channel id="200347"><display-name lang="zh">SkySpF1</display-name></channel>
+<channel id="200348"><display-name lang="zh">SkySpMainEv</display-name></channel>
+<channel id="200349"><display-name lang="zh">SkySpCricket</display-name></channel>
+<channel id="200350"><display-name lang="zh">TinyPop+1</display-name></channel>
+<channel id="200351"><display-name lang="zh">IdealExtra</display-name></channel>
+<channel id="200352"><display-name lang="zh">BoxNation</display-name></channel>
+<channel id="200353"><display-name lang="zh">PsychicToday</display-name></channel>
+<channel id="200354"><display-name lang="zh">TRTWorld</display-name></channel>
+<channel id="200355"><display-name lang="zh">Pick</display-name></channel>
+<channel id="200356"><display-name lang="zh">SkyTwo</display-name></channel>
+<channel id="200357"><display-name lang="zh">GINXeSportsTV</display-name></channel>
+<channel id="200358"><display-name lang="zh">Pick+1</display-name></channel>
+<channel id="200359"><display-name lang="zh">MUTV</display-name></channel>
+<channel id="200360"><display-name lang="zh">Channel5+1</display-name></channel>
+<channel id="200361"><display-name lang="zh">Disc.Science</display-name></channel>
+<channel id="200362"><display-name lang="zh">BBCOneNE&C</display-name></channel>
+<channel id="200363"><display-name lang="zh">Discovery+1</display-name></channel>
+<channel id="200364"><display-name lang="zh">COLORSHD</display-name></channel>
+<channel id="200365"><display-name lang="zh">AnimalPlanet</display-name></channel>
+<channel id="200366"><display-name lang="zh">BBCFour</display-name></channel>
+<channel id="200367"><display-name lang="zh">BBCOneSEast</display-name></channel>
+<channel id="200368"><display-name lang="zh">BBCOneSouth</display-name></channel>
+<channel id="200369"><display-name lang="zh">ITV2</display-name></channel>
+<channel id="200370"><display-name lang="zh">ITV2+1</display-name></channel>
+<channel id="200371"><display-name lang="zh">BBCTwoNI</display-name></channel>
+<channel id="200372"><display-name lang="zh">BBCNEWS</display-name></channel>
+<channel id="200373"><display-name lang="zh">Home&Health</display-name></channel>
+<channel id="200374"><display-name lang="zh">Disc.Turbo</display-name></channel>
+<channel id="200375"><display-name lang="zh">SkySpF1HD</display-name></channel>
+<channel id="200376"><display-name lang="zh">SkySpF'ballHD</display-name></channel>
+<channel id="200377"><display-name lang="zh">MTVHD</display-name></channel>
+<channel id="200378"><display-name lang="zh">TraceVault</display-name></channel>
+<channel id="200379"><display-name lang="zh">SkySpF'ball</display-name></channel>
+<channel id="200380"><display-name lang="zh">SkySpArena</display-name></channel>
+<channel id="200381"><display-name lang="zh">NatGeoHD</display-name></channel>
+<channel id="200382"><display-name lang="zh">BoomerangHD</display-name></channel>
+<channel id="200383"><display-name lang="zh">SkyHitsHD</display-name></channel>
+<channel id="200384"><display-name lang="zh">SkySpRacingHD</display-name></channel>
+<channel id="200385"><display-name lang="zh">NickJr.HD</display-name></channel>
+<channel id="200386"><display-name lang="zh">LFCTVHD</display-name></channel>
+<channel id="200387"><display-name lang="zh">Together</display-name></channel>
+<channel id="200388"><display-name lang="zh">IslamTV</display-name></channel>
+<channel id="200389"><display-name lang="zh">E4+1</display-name></channel>
+<channel id="200390"><display-name lang="zh">HGTV+1</display-name></channel>
+<channel id="200391"><display-name lang="zh">SONYTVHD</display-name></channel>
+<channel id="200392"><display-name lang="zh">SONYMAXHD</display-name></channel>
+<channel id="200393"><display-name lang="zh">StarGOLDHD</display-name></channel>
+<channel id="200394"><display-name lang="zh">BTSpt//ESPNHD</display-name></channel>
+<channel id="200395"><display-name lang="zh">More4HD</display-name></channel>
+<channel id="200396"><display-name lang="zh">HGTV</display-name></channel>
+<channel id="200397"><display-name lang="zh">alibi</display-name></channel>
+<channel id="200398"><display-name lang="zh">Eden</display-name></channel>
+<channel id="200399"><display-name lang="zh">YESTERDAY</display-name></channel>
+<channel id="200400"><display-name lang="zh">GOLD</display-name></channel>
+<channel id="200401"><display-name lang="zh">Eden+1</display-name></channel>
+<channel id="200402"><display-name lang="zh">Dave</display-name></channel>
+<channel id="200403"><display-name lang="zh">SkyHistory2</display-name></channel>
+<channel id="200404"><display-name lang="zh">IslamChannel</display-name></channel>
+<channel id="200405"><display-name lang="zh">BBCScotlandHD</display-name></channel>
+<channel id="200406"><display-name lang="zh">BTSport1</display-name></channel>
+<channel id="200407"><display-name lang="zh">BTSport2</display-name></channel>
+<channel id="200408"><display-name lang="zh">Live360</display-name></channel>
+<channel id="200409"><display-name lang="zh">HighStreetTV5</display-name></channel>
+<channel id="200410"><display-name lang="zh">BBCScotland</display-name></channel>
+<channel id="200411"><display-name lang="zh">SkyDocmntrsHD</display-name></channel>
+<channel id="200412"><display-name lang="zh">HidayatTV</display-name></channel>
+<channel id="200413"><display-name lang="zh">DiscoveryShed</display-name></channel>
+<channel id="200414"><display-name lang="zh">4seven</display-name></channel>
+<channel id="200415"><display-name lang="zh">NOW80s</display-name></channel>
+<channel id="200416"><display-name lang="zh">NTV</display-name></channel>
+<channel id="200417"><display-name lang="zh">QuestRed+1</display-name></channel>
+<channel id="200418"><display-name lang="zh">SonLife</display-name></channel>
+<channel id="200419"><display-name lang="zh">CraftExtra</display-name></channel>
+<channel id="200420"><display-name lang="zh">GemsTV</display-name></channel>
+<channel id="200421"><display-name lang="zh">BBCTwoWalHD</display-name></channel>
+<channel id="200422"><display-name lang="zh">BBCOneSWest</display-name></channel>
+<channel id="200423"><display-name lang="zh">Hillsong</display-name></channel>
+<channel id="200424"><display-name lang="zh">MUTVHD</display-name></channel>
+<channel id="200425"><display-name lang="zh">SkyComedyCinema</display-name></channel>
+<channel id="200426"><display-name lang="zh">SkyAction</display-name></channel>
+<channel id="200427"><display-name lang="zh">Foodxp</display-name></channel>
+<channel id="200428"><display-name lang="zh">FoodNetwrk+1</display-name></channel>
+<channel id="200429"><display-name lang="zh">POPMax</display-name></channel>
+<channel id="200430"><display-name lang="zh">FoodNetwork</display-name></channel>
+<channel id="200431"><display-name lang="zh">ARYFamily</display-name></channel>
+<channel id="200432"><display-name lang="zh">SonyChannel</display-name></channel>
+<channel id="200433"><display-name lang="zh">Aastha</display-name></channel>
+<channel id="200434"><display-name lang="zh">BTSport3</display-name></channel>
+<channel id="200435"><display-name lang="zh">LoveWorldHD</display-name></channel>
+<channel id="200436"><display-name lang="zh">Magic</display-name></channel>
+<channel id="200437"><display-name lang="zh">ITV4HD</display-name></channel>
+<channel id="200438"><display-name lang="zh">SkyHistory</display-name></channel>
+<channel id="200439"><display-name lang="zh">ITV2HD</display-name></channel>
+<channel id="200440"><display-name lang="zh">ITV3HD</display-name></channel>
+<channel id="200441"><display-name lang="zh">NickJr.Too</display-name></channel>
+<channel id="200442"><display-name lang="zh">BBCRB1</display-name></channel>
+<channel id="200443"><display-name lang="zh">DAYSTARHD</display-name></channel>
+<channel id="200444"><display-name lang="zh">MadaniChnl</display-name></channel>
+<channel id="200445"><display-name lang="zh">CNBCHD</display-name></channel>
+<channel id="200446"><display-name lang="zh">PTCPUNJABI</display-name></channel>
+<channel id="200447"><display-name lang="zh">EWTNCatholic</display-name></channel>
+<channel id="200448"><display-name lang="zh">CBBC</display-name></channel>
+<channel id="200449"><display-name lang="zh">revelation</display-name></channel>
+<channel id="200450"><display-name lang="zh">Travelxp</display-name></channel>
+<channel id="200451"><display-name lang="zh">HighStreetTV3</display-name></channel>
+<channel id="200452"><display-name lang="zh">IslamChUrdu</display-name></channel>
+<channel id="200453"><display-name lang="zh">Eurosport2HD</display-name></channel>
+<channel id="200454"><display-name lang="zh">SkySpMainEvHD</display-name></channel>
+<channel id="200455"><display-name lang="zh">DiscoveryHD</display-name></channel>
+<channel id="200456"><display-name lang="zh">Eurosport1HD</display-name></channel>
+<channel id="200457"><display-name lang="zh">BTSport3HD</display-name></channel>
+<channel id="200458"><display-name lang="zh">QUEST+1</display-name></channel>
+<channel id="200459"><display-name lang="zh">Crime+Inv+1</display-name></channel>
+<channel id="200460"><display-name lang="zh">BTSport1HD</display-name></channel>
+<channel id="200461"><display-name lang="zh">BTSport2HD</display-name></channel>
+<channel id="200462"><display-name lang="zh">Sangat</display-name></channel>
+<channel id="200463"><display-name lang="zh">JewelleryMaker</display-name></channel>
+<channel id="200464"><display-name lang="zh">Hochanda</display-name></channel>
+<channel id="200465"><display-name lang="zh">CBSReality</display-name></channel>
+<channel id="200466"><display-name lang="zh">QVCExtra</display-name></channel>
+<channel id="200467"><display-name lang="zh">NoorTV</display-name></channel>
+<channel id="200468"><display-name lang="zh">COLORS</display-name></channel>
+<channel id="200469"><display-name lang="zh">SikhChannel</display-name></channel>
+<channel id="200470"><display-name lang="zh">PBSAmerica</display-name></channel>
+<channel id="200471"><display-name lang="zh">BritAsiaTV</display-name></channel>
+<channel id="200472"><display-name lang="zh">ITV</display-name></channel>
+<channel id="200473"><display-name lang="zh">SkySpPL</display-name></channel>
+<channel id="200474"><display-name lang="zh">SkySpNews</display-name></channel>
+<channel id="200475"><display-name lang="zh">GOLD+1</display-name></channel>
+<channel id="200476"><display-name lang="zh">MATVNational</display-name></channel>
+<channel id="200477"><display-name lang="zh">NOW70s</display-name></channel>
+<channel id="200478"><display-name lang="zh">HighStreetTV4</display-name></channel>
+<channel id="200479"><display-name lang="zh">LaLigaTVHD</display-name></channel>
+<channel id="200480"><display-name lang="zh">TakbeerTV</display-name></channel>
+<channel id="200481"><display-name lang="zh">GoodNewsTV</display-name></channel>
+<channel id="200482"><display-name lang="zh">FaithWorldTV</display-name></channel>
+<channel id="200483"><display-name lang="zh">CN+1</display-name></channel>
+<channel id="200484"><display-name lang="zh">GEONews</display-name></channel>
+<channel id="200485"><display-name lang="zh">NDTV24x7</display-name></channel>
+<channel id="200486"><display-name lang="zh">NatGeo+1</display-name></channel>
+<channel id="200487"><display-name lang="zh">QuestRed</display-name></channel>
+<channel id="200488"><display-name lang="zh">HomeHealth+1</display-name></channel>
+<channel id="200489"><display-name lang="zh">ID</display-name></channel>
+<channel id="200490"><display-name lang="zh">NickJr.</display-name></channel>
+<channel id="200491"><display-name lang="zh">alibiHD</display-name></channel>
+<channel id="200492"><display-name lang="zh">92News</display-name></channel>
+<channel id="200493"><display-name lang="zh">SkySpArenaHD</display-name></channel>
+<channel id="200494"><display-name lang="zh">CHSTV</display-name></channel>
+<channel id="200495"><display-name lang="zh">POP+1</display-name></channel>
+<channel id="200496"><display-name lang="zh">LondonLive</display-name></channel>
+<channel id="200497"><display-name lang="zh">More4+1</display-name></channel>
+<channel id="200498"><display-name lang="zh">ComedyCentHD</display-name></channel>
+<channel id="200499"><display-name lang="zh">SkyAtlanticHD</display-name></channel>
+<channel id="200500"><display-name lang="zh">Really</display-name></channel>
+<channel id="200501"><display-name lang="zh">SkyNewsHD</display-name></channel>
+<channel id="200502"><display-name lang="zh">Eurosport1</display-name></channel>
+<channel id="200503"><display-name lang="zh">Channel5HD</display-name></channel>
+<channel id="200504"><display-name lang="zh">MTVMUSIC</display-name></channel>
+<channel id="200505"><display-name lang="zh">CNBC</display-name></channel>
+<channel id="200506"><display-name lang="zh">StarGOLD</display-name></channel>
+<channel id="200507"><display-name lang="zh">CBSDrama</display-name></channel>
+<channel id="200508"><display-name lang="zh">DMAX</display-name></channel>
+<channel id="200509"><display-name lang="zh">POP</display-name></channel>
+<channel id="200510"><display-name lang="zh">KanshiTV</display-name></channel>
+<channel id="200511"><display-name lang="zh">S4CHD</display-name></channel>
+<channel id="200512"><display-name lang="zh">TalkingPictures</display-name></channel>
+<channel id="200513"><display-name lang="zh">Cartoonito</display-name></channel>
+<channel id="200514"><display-name lang="zh">Challenge</display-name></channel>
+<channel id="200515"><display-name lang="zh">SONYMAX2</display-name></channel>
+<channel id="200516"><display-name lang="zh">SkyWitness+1</display-name></channel>
+<channel id="200517"><display-name lang="zh">Disc.History</display-name></channel>
+<channel id="200518"><display-name lang="zh">BBCOneOxford</display-name></channel>
+<channel id="200519"><display-name lang="zh">DunyaNews</display-name></channel>
+<channel id="200520"><display-name lang="zh">CBeebies</display-name></channel>
+<channel id="200521"><display-name lang="zh">Paramount</display-name></channel>
+<channel id="200522"><display-name lang="zh">SkySpBoxOff</display-name></channel>
+<channel id="200523"><display-name lang="zh">BBCOneWest</display-name></channel>
+<channel id="200524"><display-name lang="zh">SkyCrimeHD</display-name></channel>
+<channel id="200525"><display-name lang="zh">AnimalPlnt+1</display-name></channel>
+<channel id="200526"><display-name lang="zh">Disc.Sci+1</display-name></channel>
+<channel id="200527"><display-name lang="zh">Discovery</display-name></channel>
+<channel id="200528"><display-name lang="zh">CITV</display-name></channel>
+<channel id="200529"><display-name lang="zh">SkySpRacing</display-name></channel>
+<channel id="200530"><display-name lang="zh">BBCTwoWales</display-name></channel>
+<channel id="200531"><display-name lang="zh">ITVBe</display-name></channel>
+<channel id="200532"><display-name lang="zh">DMAX+1</display-name></channel>
+<channel id="200533"><display-name lang="zh">VenusTV</display-name></channel>
+<channel id="200534"><display-name lang="zh">SonyAction+1</display-name></channel>
+<channel id="200535"><display-name lang="zh">Samaa</display-name></channel>
+<channel id="200536"><display-name lang="zh">SpotlightTV</display-name></channel>
+<channel id="200537"><display-name lang="zh">NOW90s</display-name></channel>
+<channel id="200538"><display-name lang="zh">Channel7</display-name></channel>
+<channel id="200539"><display-name lang="zh">Disc.Turbo+1</display-name></channel>
+<channel id="200540"><display-name lang="zh">A1TV</display-name></channel>
+<channel id="200541"><display-name lang="zh">ColorsCineplex</display-name></channel>
+<channel id="200542"><display-name lang="zh">Hi-ImpactTV</display-name></channel>
+<channel id="200543"><display-name lang="zh">Sanskar</display-name></channel>
+<channel id="200544"><display-name lang="zh">BBCOneYk&Li</display-name></channel>
+<channel id="200545"><display-name lang="zh">BBCOneNWest</display-name></channel>
+<channel id="200546"><display-name lang="zh">BBCOneWMid</display-name></channel>
+<channel id="200547"><display-name lang="zh">BBCALBA</display-name></channel>
+<channel id="200548"><display-name lang="zh">ComedyCentral</display-name></channel>
+<channel id="200549"><display-name lang="zh">BBCOneEastE</display-name></channel>
+<channel id="200550"><display-name lang="zh">BBCOneEMid</display-name></channel>
+<channel id="200551"><display-name lang="zh">BBCOneYorks</display-name></channel>
+<channel id="200552"><display-name lang="zh">SkySpCricketHD</display-name></channel>
+<channel id="200553"><display-name lang="zh">SkyHistoryHD</display-name></channel>
+<channel id="200554"><display-name lang="zh">Crime+InvHD</display-name></channel>
+<channel id="200555"><display-name lang="zh">alibi+1</display-name></channel>
+<channel id="200556"><display-name lang="zh">TVCNews</display-name></channel>
+<channel id="200557"><display-name lang="zh">SkyHits</display-name></channel>
+<channel id="200558"><display-name lang="zh">SkyGreats</display-name></channel>
+<channel id="200559"><display-name lang="zh">SkyDrama</display-name></channel>
+<channel id="200560"><display-name lang="zh">SkyHarryPotter</display-name></channel>
+<channel id="200561"><display-name lang="zh">ComedyXtra</display-name></channel>
+<channel id="200562"><display-name lang="zh">SkyThriller</display-name></channel>
+<channel id="200563"><display-name lang="zh">SkyIntro</display-name></channel>
+<channel id="200564"><display-name lang="zh">ColorsRishtey</display-name></channel>
+<channel id="200565"><display-name lang="zh">IQRABANGLA</display-name></channel>
+<channel id="200566"><display-name lang="zh">HUMEUROPE</display-name></channel>
+<channel id="200567"><display-name lang="zh">SkyComedyHD</display-name></channel>
+<channel id="200568"><display-name lang="zh">SkyFamilyHD</display-name></channel>
+<channel id="200569"><display-name lang="zh">ROK</display-name></channel>
+<channel id="200570"><display-name lang="zh">SkySpPLHD</display-name></channel>
+<channel id="200571"><display-name lang="zh">SkyScFi/HorHD</display-name></channel>
+<channel id="200572"><display-name lang="zh">SkyDramaHD</display-name></channel>
+<channel id="200573"><display-name lang="zh">SkyGreatsHD</display-name></channel>
+<channel id="200574"><display-name lang="zh">SkyActionHD</display-name></channel>
+<channel id="200575"><display-name lang="zh">TCMMovies+1</display-name></channel>
+<channel id="200576"><display-name lang="zh">Davejavu</display-name></channel>
+<channel id="200577"><display-name lang="zh">StarPlus</display-name></channel>
+<channel id="200578"><display-name lang="zh">RacingTVHD</display-name></channel>
+<channel id="200579"><display-name lang="zh">BloombergHD</display-name></channel>
+<channel id="200580"><display-name lang="zh">SonyClassic+1</display-name></channel>
+<channel id="200581"><display-name lang="zh">QVC</display-name></channel>
+<channel id="200582"><display-name lang="zh">Channel4+1</display-name></channel>
+<channel id="200583"><display-name lang="zh">Disc.History+1</display-name></channel>
+<channel id="200584"><display-name lang="zh">FreeSportsHD</display-name></channel>
+<channel id="200585"><display-name lang="zh">SkyCrime+1</display-name></channel>
+<channel id="200586"><display-name lang="zh">PTVGlobal</display-name></channel>
+<channel id="200587"><display-name lang="zh">BabyTV</display-name></channel>
+<channel id="200588"><display-name lang="zh">SonyClassic</display-name></channel>
+<channel id="200589"><display-name lang="zh">SkyNewsArabia</display-name></channel>
+<channel id="200590"><display-name lang="zh">SkyWitnessHD</display-name></channel>
+<channel id="200591"><display-name lang="zh">SkyAtlantic</display-name></channel>
+<channel id="200592"><display-name lang="zh">SkyAtlantic+1</display-name></channel>
+<channel id="200593"><display-name lang="zh">SkySpGolf</display-name></channel>
+<channel id="200594"><display-name lang="zh">Premier1HD</display-name></channel>
+<channel id="200595"><display-name lang="zh">TCMMovies</display-name></channel>
+<channel id="200596"><display-name lang="zh">SkySpMixHD</display-name></channel>
+<channel id="200597"><display-name lang="zh">CartoonNetwrk</display-name></channel>
+<channel id="200598"><display-name lang="zh">Boomerang+1</display-name></channel>
+<channel id="200599"><display-name lang="zh">CNN</display-name></channel>
+<channel id="200600"><display-name lang="zh">Boomerang</display-name></channel>
+<channel id="200601"><display-name lang="zh">JMLDirect</display-name></channel>
+<channel id="200602"><display-name lang="zh">KISS</display-name></channel>
+<channel id="200603"><display-name lang="zh">ITV3</display-name></channel>
+<channel id="200604"><display-name lang="zh">ITV3+1</display-name></channel>
+<channel id="200605"><display-name lang="zh">SkyIntro</display-name></channel>
+<channel id="200606"><display-name lang="zh">Kerrang!</display-name></channel>
+<channel id="200607"><display-name lang="zh">QVCStyle</display-name></channel>
+<channel id="200608"><display-name lang="zh">CBBCHD</display-name></channel>
+<channel id="200609"><display-name lang="zh">BBCOneEastW</display-name></channel>
+<channel id="200610"><display-name lang="zh">BBCParliament</display-name></channel>
+<channel id="200611"><display-name lang="zh">BBCOneHD</display-name></channel>
+<channel id="200612"><display-name lang="zh">BBCTwoHD</display-name></channel>
+<channel id="200613"><display-name lang="zh">BBCOneCI</display-name></channel>
+<channel id="200614"><display-name lang="zh">TLCHD</display-name></channel>
+<channel id="200615"><display-name lang="zh">WHD</display-name></channel>
+<channel id="200616"><display-name lang="zh">TLC</display-name></channel>
+<channel id="200617"><display-name lang="zh">SONYTV</display-name></channel>
+<channel id="200618"><display-name lang="zh">SkyWitness</display-name></channel>
+<channel id="200619"><display-name lang="zh">ZeeCinema</display-name></channel>
+<channel id="200620"><display-name lang="zh">SONYMAX</display-name></channel>
+<channel id="200621"><display-name lang="zh">GEOTV</display-name></channel>
+<channel id="200622"><display-name lang="zh">NickJr+1</display-name></channel>
+<channel id="200623"><display-name lang="zh">SkyCrime</display-name></channel>
+<channel id="200624"><display-name lang="zh">AkaalChannel</display-name></channel>
+<channel id="200625"><display-name lang="zh">TraceUrban</display-name></channel>
+<channel id="200626"><display-name lang="zh">Eurosport2</display-name></channel>
+<channel id="200627"><display-name lang="zh">SonyChannel+1</display-name></channel>
+<channel id="200628"><display-name lang="zh">SkyThrillerHD</display-name></channel>
+<channel id="200629"><display-name lang="zh">SkyArtsHD</display-name></channel>
+<channel id="200630"><display-name lang="zh">SkyOneHD</display-name></channel>
+<channel id="200631"><display-name lang="zh">Premier2HD</display-name></channel>
+<channel id="200632"><display-name lang="zh">RT</display-name></channel>
+<channel id="200633"><display-name lang="zh">AhlebaitTV</display-name></channel>
+<channel id="200634"><display-name lang="zh">NickelodeonHD</display-name></channel>
+<channel id="200635"><display-name lang="zh">InspirationTV</display-name></channel>
+<channel id="200636"><display-name lang="zh">QUEST</display-name></channel>
+<channel id="200637"><display-name lang="zh">TRTWorldHD</display-name></channel>
+<channel id="200638"><display-name lang="zh">CBSReality+1</display-name></channel>
+<channel id="200639"><display-name lang="zh">horrorchannel</display-name></channel>
+<channel id="200640"><display-name lang="zh">StarBharat</display-name></channel>
+<channel id="200641"><display-name lang="zh">TJC</display-name></channel>
+<channel id="200642"><display-name lang="zh">Euronews</display-name></channel>
+<channel id="200643"><display-name lang="zh">NewVisionTV</display-name></channel>
+<channel id="200644"><display-name lang="zh">AlJazeeraHD</display-name></channel>
+<channel id="200645"><display-name lang="zh">TVOne</display-name></channel>
+<channel id="200646"><display-name lang="zh">SkySpBoxOffHD</display-name></channel>
+<channel id="200647"><display-name lang="zh">SkyNatureHD</display-name></channel>
+<channel id="200648"><display-name lang="zh">CelebrationTV</display-name></channel>
+<channel id="200649"><display-name lang="zh">Channels24</display-name></channel>
+<channel id="200650"><display-name lang="zh">SkyHistory+1</display-name></channel>
+<channel id="200651"><display-name lang="zh">mytv</display-name></channel>
+<channel id="200652"><display-name lang="zh">VoxAfrica</display-name></channel>
+<channel id="200653"><display-name lang="zh">TBNUK</display-name></channel>
+<channel id="200654"><display-name lang="zh">GODChannel</display-name></channel>
+<channel id="200655"><display-name lang="zh">IranInt'lHD</display-name></channel>
+<channel id="200656"><display-name lang="zh">MTVCLASSIC</display-name></channel>
+<channel id="200657"><display-name lang="zh">MTVBASE</display-name></channel>
+<channel id="200658"><display-name lang="zh">MTVHITS</display-name></channel>
+<channel id="200659"><display-name lang="zh">SYFY</display-name></channel>
+<channel id="200660"><display-name lang="zh">BTSBoxOffWWE</display-name></channel>
+<channel id="200661"><display-name lang="zh">MTV</display-name></channel>
+<channel id="200662"><display-name lang="zh">Crime+Inv</display-name></channel>
+<channel id="200663"><display-name lang="zh">Film4HD</display-name></channel>
+<channel id="200664"><display-name lang="zh">SkySpMix</display-name></channel>
+<channel id="200665"><display-name lang="zh">BoxHits</display-name></channel>
+<channel id="200666"><display-name lang="zh">E!</display-name></channel>
+<channel id="200667"><display-name lang="zh">AriseNews</display-name></channel>
+<channel id="200668"><display-name lang="zh">SkySciFi/Horror</display-name></channel>
+<channel id="200669"><display-name lang="zh">NatGeo</display-name></channel>
+<channel id="200670"><display-name lang="zh">TinyPop</display-name></channel>
+<channel id="200671"><display-name lang="zh">TheBox</display-name></channel>
+<channel id="200672"><display-name lang="zh">Channel5</display-name></channel>
+<channel id="200673"><display-name lang="zh">SkyFamily</display-name></channel>
+<channel id="200674"><display-name lang="zh">BBCOneLon</display-name></channel>
+<channel id="200675"><display-name lang="zh">BBCOneWales</display-name></channel>
+<channel id="200676"><display-name lang="zh">BBCTwo</display-name></channel>
+<channel id="200677"><display-name lang="zh">BBCOneScot</display-name></channel>
+<channel id="200678"><display-name lang="zh">BBCOneNI</display-name></channel>
